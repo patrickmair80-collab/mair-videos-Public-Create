@@ -2,14 +2,14 @@
 
 ## Reel 1: Was kostet deine Heizung wirklich? (Do 08.10., 18 Uhr)
 Öl, Gas oder Wärmepumpe? So rechnen wir es in jeder Projektmappe ehrlich durch.
-17.000 kWh Wärme im Jahr: Öl 4.600 €, Gas 3.010 €, Wärmepumpe mit Förderung 2.420 €.
-Auf 20 Jahre sind das 43.600 € Unterschied zum Öl.
+17.000 kWh Wärme im Jahr, laufende Kosten: Öl 3.700 €, Gas 2.410 €, Wärmepumpe 1.564 €.
+Das sind 2.136 € weniger als Öl und 846 € weniger als Gas, jedes Jahr.
 Kommentiere MAPPE und wir rechnen dein Haus durch.
 #wärmepumpe #heizungstausch #aurachtal #erlangen #viessmann
 
 ## Reel 2: So läuft es ab (Sa 10.10., 9:30 Uhr)
 Vom ersten Anruf bis zur laufenden Wärmepumpe in 6 Schritten.
-Vor-Ort-Termin, Heizlast Raum für Raum, Projektmappe mit Festpreis, Förderantrag, Einbau vom eigenen Team, Einweisung mit App.
+Vor-Ort-Termin, Heizlast Raum für Raum, Projektmappe mit individuellem Angebot, Förderantrag, Einbau vom eigenen Team, Einweisung mit App.
 Welcher Schritt macht dir am meisten Kopfzerbrechen?
 #wärmepumpe #heizungsbau #herzogenaurach #mittelfranken #shkhandwerk
 
