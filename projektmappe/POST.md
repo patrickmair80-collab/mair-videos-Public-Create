@@ -1,9 +1,9 @@
 # Serie „Projektmappe“ (Stand 06.10.2026)
 
 ## Reel 1: Was kostet deine Heizung wirklich? (Do 08.10., 18 Uhr)
-Öl, Gas oder Wärmepumpe? So rechnen wir es in jeder Projektmappe ehrlich durch.
-17.000 kWh Wärme im Jahr, laufende Kosten: Öl 3.700 €, Gas 2.410 €, Wärmepumpe 1.564 €.
-Das sind 2.136 € weniger als Öl und 846 € weniger als Gas, jedes Jahr.
+2.000 Liter Heizöl im Jahr: Was kostet dieselbe Wärme mit Gas oder Wärmepumpe?
+2.000 l Öl = 20.000 kWh, davon kommen 17.000 kWh als Wärme im Haus an. Mit Gas brauchst du dafür 18.900 kWh, mit Wärmepumpe 4.857 kWh Strom.
+Laufende Kosten im Jahr: Öl 3.600 €, Gas 2.358 €, Wärmepumpe 1.563 €.
 Kommentiere MAPPE und wir rechnen dein Haus durch.
 #wärmepumpe #heizungstausch #aurachtal #erlangen #viessmann
 
