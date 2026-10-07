@@ -1,0 +1,12 @@
+# Layout-Log Mair Reels
+
+Vor jedem neuen Reel lesen. Das neue Layout darf keins der letzten 3 sein. Nach dem Posten eine Zeile anhängen.
+Layout-Nummern siehe Skill video-schnitt-mair, Abschnitt „Layout-Rotation“.
+
+| Datum | Reel | Layout | Farbe/Schrift | Musik | Ergebnis (nach 2–3 Tagen) |
+|---|---|---|---|---|---|
+| 2026-10-05 | Nahwärme vs. Wärmepumpe | L4 Kassenbon/Papier | hell, Mono | Beat 120 | 31 Aufrufe, 10 % geschaut → schwach |
+| 2026-10-07 | Projektmappe lang | L5 Schreibtisch/Projektmappe | dunkel, Serif | Beat | offen |
+| 2026-10-07 | Memodo Expert Days | L6 Energienetz-Grafik + Vollbild-Fotos | Nachtblau/Grün, Inter Black | Beat 125 | offen |
+| 2026-10-12 geplant | Bad eigener Fliesenleger | L3 Magazin/Editorial | Papier, Lora Serif | Spa-Ambient + Sprecher | offen |
+| 2026-10-14 geplant | Dusch-WC | L12 Liste/Haken-Karten | dunkel, Lora + Inter | Lounge 100 | offen |
