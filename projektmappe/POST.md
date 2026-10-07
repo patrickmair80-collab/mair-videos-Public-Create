@@ -1,10 +1,10 @@
 # Serie „Projektmappe“ (Stand 06.10.2026)
 
-## Reel 1: Was kostet deine Heizung wirklich? (Do 08.10., 18 Uhr)
-2.000 Liter Heizöl im Jahr: Was kostet dieselbe Wärme mit Gas oder Wärmepumpe?
-2.000 l Öl = 20.000 kWh, davon kommen 17.000 kWh als Wärme im Haus an. Mit Gas brauchst du dafür 18.900 kWh, mit Wärmepumpe 4.857 kWh Strom.
-Laufende Kosten im Jahr: Öl 3.600 €, Gas 2.358 €, Wärmepumpe 1.563 €.
-Kommentiere MAPPE und wir rechnen dein Haus durch.
+## Reel 1: Was kostet deine Heizung wirklich?
+2.000 Liter Heizöl im Jahr. Was kostet dieselbe Wärme mit Gas oder Wärmepumpe?
+2.000 l Öl = 20.000 kWh, im Haus kommen 17.000 kWh Wärme an. Mit Gas brauchst du 18.900 kWh, mit Wärmepumpe 5.667 kWh Strom.
+Laufende Kosten im Jahr: Öl 3.600 €, Gas 2.358 €, Wärmepumpe 1.773 €. Und das noch ohne PV-Anlage, gerechnet mit 26 ct Netzstrom.
+Die Sonne schickt dir keine Rechnung. Kommentiere MAPPE und wir rechnen dein Haus durch.
 #wärmepumpe #heizungstausch #aurachtal #erlangen #viessmann
 
 ## Reel 2: So läuft es ab (Sa 10.10., 9:30 Uhr)
@@ -20,5 +20,5 @@ Im Beispiel: 30.000 € Anlage, 12.880 € Zuschuss.
 Schick das jemandem, der gerade über eine neue Heizung nachdenkt.
 #wärmepumpe #förderung #heizungstausch #erlangen #aurachtal
 
-## WhatsApp-Status (lange Fassung, 50 s)
+## WhatsApp-Status (lange Fassung, 74 s)
 So plant ein Meisterbetrieb deine Wärmepumpe: Kosten, Ablauf, Förderung. Deine eigene Projektmappe? 09132 / 74 97 5-27
