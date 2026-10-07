@@ -10,3 +10,5 @@ Layout-Nummern siehe Skill video-schnitt-mair, Abschnitt „Layout-Rotation“.
 | 2026-10-07 | Memodo Expert Days | L6 Energienetz-Grafik + Vollbild-Fotos | Nachtblau/Grün, Inter Black | Beat 125 | offen |
 | 2026-10-12 geplant | Bad eigener Fliesenleger | L3 Magazin/Editorial | Papier, Lora Serif | Spa-Ambient + Sprecher | offen |
 | 2026-10-14 geplant | Dusch-WC | L12 Liste/Haken-Karten | dunkel, Lora + Inter | Lounge 100 | offen |
+
+**Neu L18 (07.10.2026):** Sprecher freigestellt vor wechselndem Bild-Raster (4er/12er), Wort-für-Wort-Untertitel mittig in Serifenschrift, Label "KI-Visualisierung" bei KI-Bildern. Vorbild: Reel DeHf5yxDkrp.

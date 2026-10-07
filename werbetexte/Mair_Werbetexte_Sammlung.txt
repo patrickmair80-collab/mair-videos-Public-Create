@@ -212,3 +212,12 @@ Nahwärme oder Wärmepumpe? Mair Gebäudetechnik aus Aurachtal rechnet für Haus
 ==================================================
 5) NEU GESAMMELT (wöchentlich ergänzt)
 ==================================================
+
+--- 07.10.2026 aus Analyse Reel DeHf5yxDkrp (Sanitär-Serien) ---
+Hook: "Wenn ich nur noch fertige Bäder zeigen dürfte, wäre das langweilig. Darum gibt es drei Serien."
+Hook: "Rate das Baujahr von diesem Bad." (CTA: Jahr in die Kommentare)
+Hook: "Passt in dein Bad eine begehbare Dusche? Schick uns ein Foto." (Kommentar-Wort: BAD)
+Hook: "Tag 1 von 12: So sieht ein Badumbau wirklich aus."
+Hook: "Wie lange dauert ein Badumbau? Wir zeigen jeden Tag."
+Hook: "Dieses Bad ist älter als du denkst."
+CTA: "Welches Bad sollen wir als Nächstes zeigen? Schreib es in die Kommentare."
