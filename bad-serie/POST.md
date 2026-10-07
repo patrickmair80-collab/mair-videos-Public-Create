@@ -1,5 +1,7 @@
 # Bad-Serie (Okt. 2026)
 
+Versionen Reel 1: mit Sprecher (Instagram/Facebook) und _nur_Musik (TikTok). Ruhige Spa-Musik statt Beat. Korrektur 07.10.: Bild 6 zeigt EINE Dusche (Spiegelung), Text jetzt „Walk-in-Dusche mit Mosaik-Akzent“; die 6 Bilder stammen aus 3 Bädern, nicht 6.
+
 Regel für jeden Bad-Post: „eigener Fliesenleger“ immer nennen. Alternative Zeile: „Bad und Sanitär aus einer Hand, mit eigener Badausstellung und eigenem Fliesenleger.“
 
 ## Reel 1: Mair_Reel_Bad_eigener_Fliesenleger.mp4 (16 s)
@@ -9,7 +11,7 @@ Hook im Video: Lust auf eine begehbare Dusche?
 Lust auf eine begehbare Dusche? Oder willst du einfach mehr aus deinem Badezimmer machen?
 Wir fliesen und montieren dein neues Bad selbst. Mit eigenem Fliesenleger, ohne Subunternehmer.
 Bad und Sanitär aus einer Hand, dazu unsere eigene Badausstellung in Aurachtal zum Anschauen.
-Welches Bad gefällt dir am besten, 1 bis 6? Oder kommentiere BAD und wir melden uns.
+Welcher Look gefällt dir: Holz und Dachschräge, Marmor oder Mosaik? Oder kommentiere BAD und wir melden uns.
 #badsanierung #fliesenleger #begehbaredusche #herzogenaurach #aurachtal
 
 ### Facebook
@@ -19,7 +21,7 @@ Schau dir Fliesen und Armaturen in unserer Badausstellung in Aurachtal an. Termi
 #badsanierung #fliesenleger #badumbau #erlangen #herzogenaurach
 
 ### TikTok
-Lust auf eine begehbare Dusche? 6 Bäder, alles selbst gefliest 🛁 #badsanierung #fliesenleger #badumbau #handwerk
+Lust auf eine begehbare Dusche? Alles selbst gefliest 🛁 #badsanierung #fliesenleger #badumbau #handwerk
 
 ### WhatsApp-Status
 Dein Bad, gefliest und montiert von uns. Mit eigenem Fliesenleger. 09132 / 74 97 5-27
