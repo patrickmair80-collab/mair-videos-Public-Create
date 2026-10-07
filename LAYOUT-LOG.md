@@ -12,3 +12,5 @@ Layout-Nummern siehe Skill video-schnitt-mair, Abschnitt „Layout-Rotation“.
 | 2026-10-14 geplant | Dusch-WC | L12 Liste/Haken-Karten | dunkel, Lora + Inter | Lounge 100 | offen |
 
 **Neu L18 (07.10.2026):** Sprecher freigestellt vor wechselndem Bild-Raster (4er/12er), Wort-für-Wort-Untertitel mittig in Serifenschrift, Label "KI-Visualisierung" bei KI-Bildern. Vorbild: Reel DeHf5yxDkrp.
+
+**Neu L19 (07.10.2026):** Split heute/morgen. Unten altes Bad/Keller, oben dasselbe fertig (echt oder KI per Motion Control mit Label), mittig Balken mit Kommentar-Wort, Überraschung in der Mitte. Vorbild: Reel DeMA_pQje_S.
