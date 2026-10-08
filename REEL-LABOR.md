@@ -1,5 +1,7 @@
 # Reel-Labor Mair: lernen, was ankommt
 
+> **Pflicht bei jedem Post:** Hashtags, Standort, Markierungen, Alternativtext und Caption nach [LOKAL-SEO.md](LOKAL-SEO.md) (Instagram max. 5 Hashtags, Leistung + Ort in Zeile 1).
+
 Auftrag von Patrick (08.10.2026): Themen wild durchmischen, Musik passend zur Stimmung wechseln, selbst messen, was ankommt, und daraus lernen. Ziel: mehr Follower, Kommentare und Anfragen auf Instagram, TikTok, Facebook und YouTube.
 
 ## Der Kreislauf (läuft automatisch, Mi + So)
