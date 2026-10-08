@@ -30,3 +30,9 @@ Auftrag von Patrick (08.10.2026): Themen wild durchmischen, Musik passend zur St
 
 ## Pflicht bei jedem Reel
 Hook in Sekunde 1, Sound-Effekte, Logo + Telefon + Kommentar-Wort am Ende, Stop-Slop-Text, keine Kundennamen, Kennzeichen unkenntlich, KI-Bilder kennzeichnen, Herstellermaterial nur mit Freigabe.
+
+## Pflicht vor jedem Post: nichts Fremdes im Bild (Patrick, 08.10.2026)
+- Fremde Wasserzeichen (z. B. PixVerse, Grok, CapCut, TikTok/Instagram-Handles), Logos und Namen anderer Firmen (Händler, Mitbewerber) und fremde Bilder/Videos müssen komplett raus. Sonst wird nicht gepostet.
+- Weg: Bildausschnitt so wählen, dass es draußen ist (bevorzugt), sonst weich unkenntlich machen (delogo/GaussianBlur) oder die Szene weglassen. Danach Standbilder je Szene prüfen.
+- Herstellermaterial (Viessmann, hansgrohe usw.): Freigabe liegt vor, darf genutzt werden. Herstellerlogo darf bleiben, fremde Händler-/Firmenlogos darin nicht.
+- Ordner „08 Inspiration fremd“: Inhalte anderer Creator/Firmen bleiben Ideenquelle. Wasserzeichen entfernen ändert nichts an deren Rechten, also nicht reposten, sondern das Format selbst nachdrehen.
