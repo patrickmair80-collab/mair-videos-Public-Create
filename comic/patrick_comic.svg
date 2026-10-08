@@ -1,0 +1,182 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="38%" r="75%">
+      <stop offset="0" stop-color="#e9f6e3"/>
+      <stop offset="1" stop-color="#bfe3b0"/>
+    </radialGradient>
+    <linearGradient id="skin" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f6d0b2"/>
+      <stop offset="0.7" stop-color="#efbe9c"/>
+      <stop offset="1" stop-color="#e2a985"/>
+    </linearGradient>
+    <linearGradient id="jacket" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3a4047"/>
+      <stop offset="0.55" stop-color="#262b31"/>
+      <stop offset="1" stop-color="#1a1e22"/>
+    </linearGradient>
+    <linearGradient id="hp" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4a5058"/>
+      <stop offset="1" stop-color="#2c3036"/>
+    </linearGradient>
+    <linearGradient id="hair" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5a3e2b"/>
+      <stop offset="1" stop-color="#3a281c"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Hintergrund -->
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <g opacity="0.35" fill="#ffffff">
+    <circle cx="150" cy="180" r="60"/><circle cx="215" cy="165" r="70"/><circle cx="280" cy="190" r="50"/>
+    <circle cx="820" cy="140" r="45"/><circle cx="870" cy="125" r="55"/><circle cx="925" cy="145" r="40"/>
+  </g>
+  <!-- Boden -->
+  <path d="M0 1150 Q540 1100 1080 1150 L1080 1350 L0 1350 Z" fill="#8cc97a"/>
+  <path d="M0 1185 Q540 1140 1080 1185 L1080 1350 L0 1350 Z" fill="#76b864"/>
+
+  <!-- ============ WÄRMEPUMPE (Comic, neutral) ============ -->
+  <g stroke="#15181b" stroke-width="7" stroke-linejoin="round">
+    <ellipse cx="830" cy="1182" rx="190" ry="22" fill="#000" opacity="0.18" stroke="none"/>
+    <rect x="660" y="800" width="340" height="360" rx="26" fill="url(#hp)"/>
+    <rect x="650" y="1140" width="360" height="34" rx="10" fill="#22262b"/>
+    <!-- Lamellen -->
+    <g stroke="#1d2125" stroke-width="5">
+      <line x1="690" y1="840" x2="690" y2="1120"/><line x1="710" y1="840" x2="710" y2="1120"/>
+    </g>
+    <circle cx="820" cy="975" r="118" fill="#1f2328"/>
+    <circle cx="820" cy="975" r="92" fill="#2b3036" stroke-width="5"/>
+    <!-- Ventilator -->
+    <g fill="#5d646d" stroke-width="5">
+      <path d="M820 975 C840 905 900 915 890 945 C880 970 845 975 820 975 Z"/>
+      <path d="M820 975 C860 1030 830 1080 805 1060 C785 1042 805 1005 820 975 Z"/>
+      <path d="M820 975 C750 985 735 925 765 918 C792 912 805 950 820 975 Z"/>
+    </g>
+    <circle cx="820" cy="975" r="18" fill="#4cb02c"/>
+    <!-- Display -->
+    <rect x="945" y="830" width="34" height="70" rx="8" fill="#4cb02c"/>
+  </g>
+  <!-- Wärme-Wellen -->
+  <g fill="none" stroke="#ff8a3d" stroke-width="10" stroke-linecap="round" opacity="0.9">
+    <path d="M770 760 q-18 -25 0 -50 q18 -25 0 -50"/>
+    <path d="M830 750 q-18 -25 0 -50 q18 -25 0 -50"/>
+    <path d="M890 760 q-18 -25 0 -50 q18 -25 0 -50"/>
+  </g>
+  <!-- Herz auf dem Gerät -->
+  <path d="M960 1080 c-18 -22 -48 -2 -30 20 l30 30 l30 -30 c18 -22 -12 -42 -30 -20 z" fill="#ff5c5c" stroke="#15181b" stroke-width="5"/>
+
+  <!-- ============ MONTEUR ============ -->
+  <ellipse cx="420" cy="1205" rx="170" ry="24" fill="#000" opacity="0.2"/>
+
+  <g stroke="#15181b" stroke-width="7" stroke-linejoin="round" stroke-linecap="round">
+    <!-- Beine / Arbeitshose -->
+    <path d="M318 905 L300 1150 L395 1150 L418 960 L440 1150 L535 1150 L520 905 Z" fill="#23272c"/>
+    <!-- Kniepolster -->
+    <rect x="312" y="1010" width="78" height="62" rx="12" fill="#30353b"/>
+    <rect x="450" y="1010" width="78" height="62" rx="12" fill="#30353b"/>
+    <line x1="318" y1="1012" x2="384" y2="1012" stroke="#4cb02c" stroke-width="6"/>
+    <line x1="456" y1="1012" x2="522" y2="1012" stroke="#4cb02c" stroke-width="6"/>
+    <!-- Sicherheitsschuhe -->
+    <path d="M290 1145 L398 1145 L402 1175 Q402 1195 380 1195 L262 1195 Q240 1195 246 1175 Q256 1150 290 1145 Z" fill="#1b1e22"/>
+    <path d="M440 1145 L548 1145 Q582 1150 592 1175 Q598 1195 576 1195 L458 1195 Q436 1195 436 1175 Z" fill="#1b1e22"/>
+    <path d="M246 1185 L402 1185" stroke="#4cb02c" stroke-width="7"/>
+    <path d="M436 1185 L594 1185" stroke="#4cb02c" stroke-width="7"/>
+    <ellipse cx="270" cy="1166" rx="16" ry="9" fill="#4a5058" stroke-width="4"/>
+    <ellipse cx="572" cy="1166" rx="16" ry="9" fill="#4a5058" stroke-width="4"/>
+
+    <!-- Rechter Arm (Betrachter links) hoch mit Rohrzange auf der Schulter -->
+    <path d="M300 690 Q230 700 215 610 Q210 575 245 568 Q270 565 278 600 Q290 640 330 650 Z" fill="url(#jacket)"/>
+    <!-- Rohrzange: Griff in der Hand, Kopf oben -->
+    <path d="M226 610 L250 600 L196 420 L172 430 Z" fill="#c8312c"/>
+    <path d="M150 352 L222 330 L232 362 L206 372 L214 398 L176 410 L164 380 L154 384 Z" fill="#8d959e"/>
+    <rect x="168" y="396" width="44" height="26" rx="5" fill="#5f666e" transform="rotate(-17 190 409)"/>
+    <path d="M160 358 l12 -4 M168 372 l12 -4" fill="none" stroke-width="4"/>
+    <!-- Hand an der Zange -->
+    <circle cx="238" cy="572" r="34" fill="url(#skin)"/>
+    <path d="M216 560 q22 -10 44 0" fill="none" stroke-width="5"/>
+
+    <!-- Linker Arm (Betrachter rechts): Daumen hoch -->
+    <path d="M540 680 Q610 700 640 640 Q650 618 628 606 Q605 598 594 628 Q580 655 530 655 Z" fill="url(#jacket)"/>
+    <!-- Faust + Daumen -->
+    <rect x="600" y="560" width="62" height="62" rx="18" fill="url(#skin)"/>
+    <path d="M612 562 Q608 512 628 500 Q646 494 646 516 L644 562" fill="url(#skin)"/>
+    <path d="M604 580 h50 M604 598 h50" fill="none" stroke-width="4"/>
+
+    <!-- Oberkörper / Arbeitsjacke -->
+    <path d="M300 650 Q420 610 540 650 L548 920 Q420 945 296 920 Z" fill="url(#jacket)"/>
+    <!-- Saum -->
+    <path d="M296 900 Q420 925 548 900 L548 925 Q420 950 296 925 Z" fill="#191c20"/>
+    <!-- Reißverschluss -->
+    <line x1="420" y1="640" x2="420" y2="930" stroke="#7d858e" stroke-width="5"/>
+    <!-- Brusttasche + Logo-Patch -->
+    <rect x="445" y="700" width="86" height="50" rx="10" fill="#4cb02c"/>
+    <!-- Seitentasche -->
+    <path d="M325 790 h70 v55 h-70 z" fill="#2c3137" stroke-width="5"/>
+    <line x1="325" y1="805" x2="395" y2="805" stroke="#4cb02c" stroke-width="5"/>
+    <!-- Stehkragen -->
+    <path d="M360 640 Q420 600 480 640 L470 668 Q420 642 370 668 Z" fill="#1d2125"/>
+
+    <!-- Hals -->
+    <path d="M392 600 L392 645 Q420 660 448 645 L448 600 Z" fill="#e6b08e"/>
+
+    <!-- Ohren -->
+    <ellipse cx="302" cy="425" rx="26" ry="40" fill="#eab896"/>
+    <ellipse cx="538" cy="425" rx="26" ry="40" fill="#e2a985"/>
+
+    <!-- Kopf: schmales Oval, kantiges Kinn -->
+    <path d="M300 380 Q300 255 420 250 Q540 255 540 380 L536 470 Q530 560 470 600 Q420 625 370 600 Q310 560 304 470 Z" fill="url(#skin)"/>
+  </g>
+
+  <!-- Bartschatten (leichter Dreitagebart) -->
+  <path d="M318 480 Q330 565 372 596 Q420 620 468 596 Q512 565 522 480 Q500 545 468 560 Q420 578 372 560 Q340 545 318 480 Z" fill="#8a6a55" opacity="0.28"/>
+  <path d="M378 512 Q420 498 462 512 Q450 528 420 526 Q390 528 378 512 Z" fill="#8a6a55" opacity="0.25"/>
+
+  <!-- Haare: kurz, oben etwas länger, vorne leicht hochgestellt -->
+  <path d="M296 395 Q285 300 330 262 Q372 225 425 228 Q485 226 520 255 Q556 290 545 395 Q536 350 520 330 Q500 300 470 296 Q440 312 410 300 Q380 292 355 305 Q322 322 310 360 Z"
+        fill="url(#hair)" stroke="#15181b" stroke-width="7" stroke-linejoin="round"/>
+  <!-- Strähnen-Spitzen vorne -->
+  <path d="M360 302 Q390 258 450 262 Q492 266 506 300 Q470 284 430 298 Q396 290 360 302 Z" fill="#5f4230" stroke="#15181b" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Koteletten -->
+  <path d="M304 392 L310 418 L318 394 Z M536 392 L530 418 L522 394 Z" fill="#3a281c"/>
+
+  <!-- Augenbrauen: gerade, dunkel -->
+  <path d="M338 378 Q366 364 396 374" fill="none" stroke="#3a281c" stroke-width="11" stroke-linecap="round"/>
+  <path d="M446 374 Q476 364 504 378" fill="none" stroke="#3a281c" stroke-width="11" stroke-linecap="round"/>
+
+  <!-- Augen: freundlich, leicht zusammengekniffen -->
+  <g stroke="#15181b" stroke-width="5">
+    <path d="M343 412 Q368 392 394 410 Q368 426 343 412 Z" fill="#ffffff"/>
+    <path d="M448 410 Q474 392 500 412 Q474 426 448 410 Z" fill="#ffffff"/>
+  </g>
+  <circle cx="371" cy="410" r="10" fill="#4a3324"/>
+  <circle cx="473" cy="410" r="10" fill="#4a3324"/>
+  <circle cx="374" cy="406" r="3.5" fill="#fff"/>
+  <circle cx="476" cy="406" r="3.5" fill="#fff"/>
+  <!-- Lachfältchen -->
+  <path d="M336 420 q-8 6 -10 14 M508 420 q8 6 10 14" fill="none" stroke="#b37f62" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Nase -->
+  <path d="M420 418 Q414 462 404 474 Q418 484 436 476" fill="none" stroke="#b37f62" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Breites, freundliches Lächeln mit Zähnen -->
+  <path d="M370 520 Q420 568 472 518 Q420 536 370 520 Z" fill="#ffffff" stroke="#15181b" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M376 523 Q420 534 466 521" fill="none" stroke="#d9d9d9" stroke-width="3"/>
+  <path d="M362 514 q6 2 10 8 M480 512 q-6 2 -10 8" fill="none" stroke="#15181b" stroke-width="5" stroke-linecap="round"/>
+  <!-- Wangenröte -->
+  <ellipse cx="342" cy="470" rx="24" ry="13" fill="#ff8f7a" opacity="0.28"/>
+  <ellipse cx="500" cy="470" rx="24" ry="13" fill="#ff8f7a" opacity="0.28"/>
+
+  <!-- Logo-Text auf dem Patch -->
+  <text x="488" y="733" font-family="DejaVu Sans, Arial" font-weight="bold" font-size="26" fill="#ffffff" text-anchor="middle">MAIR</text>
+
+  <!-- Sprechblase -->
+  <g>
+    <path d="M610 290 Q610 220 700 220 L930 220 Q1010 220 1010 290 L1010 370 Q1010 440 930 440 L720 440 L640 500 L668 440 Q610 430 610 370 Z" fill="#ffffff" stroke="#15181b" stroke-width="7" stroke-linejoin="round"/>
+    <text x="810" y="352" font-family="DejaVu Sans, Arial" font-weight="bold" font-size="76" fill="#15181b" text-anchor="middle">Läuft!</text>
+  </g>
+
+  <!-- Sterne / Funkeln -->
+  <g fill="#ffd23d" stroke="#15181b" stroke-width="4" stroke-linejoin="round">
+    <path d="M720 600 l8 18 l20 2 l-15 13 l5 20 l-18 -10 l-18 10 l5 -20 l-15 -13 l20 -2 z"/>
+    <path d="M120 820 l6 14 l15 1 l-11 10 l4 15 l-14 -8 l-14 8 l4 -15 l-11 -10 l15 -1 z"/>
+  </g>
+</svg>
