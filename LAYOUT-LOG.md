@@ -17,3 +17,10 @@ Layout-Nummern siehe Skill video-schnitt-mair, Abschnitt „Layout-Rotation“.
 
 **Neu L20 (08.10.2026):** Ansprechpartner. Patrick freigestellt, lehnt hinter echter Wärmepumpe (eigenes Foto), Sprechblase „Ich komm vorbei!“, Wort-für-Wort-Hook auf den Lamellen, Chips, Kontaktkarte unten. Musik Lounge 100. Dazu Ansprechpartner-Seite für Angebotsmappen.
 | 2026-10-08 Entwurf | Wärmepumpe „Ich komm vorbei!“ | L20 Ansprechpartner | Foto, Inter Black, Grün | Lounge 100 | offen |
+| 2026-10-09 geplant | Bad eigener Fliesenleger (woche41/01) | L15 Fliesenraster-Maske | Fotos, Lora + Inter, Grün | Spa-Ambient 72 | offen |
+| 2026-10-10 geplant | Heizsaison-Check (woche41/02) | L1 Vollbild-Kino | Kinobalken, Inter Black | Beat 120 | offen |
+| 2026-10-12 geplant | Wärmepumpe Altbau (woche41/03) | L17 Einwand + echter Clip | dunkel, Lora Italic, Rot/Grün | Beat 125 | offen |
+| 2026-10-13 geplant | Begehbare Dusche (woche41/04) | L7 Chat-Verlauf | WhatsApp-Look | Lounge 100 | offen |
+| 2026-10-14 geplant | Heizungstausch 3 Fehler (woche41/05) | L16 echter Clip + Karte | Clip, Inter | Beat 110 | offen |
+| 2026-10-15 geplant | Bad & Bau aus einer Hand (woche41/06) | L10 Polaroid-Stapel | Holztisch, Lora Italic | Lounge 92 | offen |
+| 2026-10-16 geplant | Azubi gesucht (woche41/07) | L14 Text-Maske | dunkel, Inter Black, grüner Rand | Beat 128 | offen |
