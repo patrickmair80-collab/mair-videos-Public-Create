@@ -3,7 +3,7 @@ import sys, numpy as np, cv2
 from PIL import Image, ImageFilter, ImageEnhance, ImageDraw
 
 BG = '/root/.claude/uploads/21fb353a-f208-59b6-a114-5f5699f3e0dd/c3d7ac3b-image.jpg'
-FIG = 'fig3/p3_mair_outfit.png'
+FIG = 'fig3/p3_mair_jacke.png'
 FH = int(sys.argv[1]) if len(sys.argv) > 1 else 820      # Körpergröße in px (~1,85 m bei ~440 px/m)
 CX = int(sys.argv[2]) if len(sys.argv) > 2 else 1300     # Mitte Füße x
 FY = int(sys.argv[3]) if len(sys.argv) > 3 else 952      # Fußlinie y
@@ -18,10 +18,12 @@ rgb = np.array(fig.convert('RGB')).astype(np.float32)
 a = np.array(fig.getchannel('A')).astype(np.float32) / 255
 xx = np.linspace(0, 1, FW)[None, :, None]
 warm = np.array([1.10, 1.00, 0.86])[None, None]
-shade = np.array([0.80, 0.84, 0.92])[None, None]
+shade = np.array([0.92, 0.94, 0.98])[None, None]
 grade = warm * (1 - xx) + shade * xx            # links warm beleuchtet, rechts kühler Schatten
-rgb = rgb * grade
-rgb = (rgb - 128) * 1.0 + 128 + np.array([3, 0, -4])
+lum = rgb.mean(-1, keepdims=True)
+k = np.clip(lum / 140, 0, 1)
+rgb = rgb * (1 + (grade - 1) * k)
+rgb = rgb * np.array([1.0, 0.99, 1.0])
 # Rim-Light links (Sonnenkante)
 edge = cv2.Canny((a * 255).astype(np.uint8), 50, 150).astype(np.float32) / 255
 kern = np.zeros((1, 9), np.float32); kern[0, 5:] = 1 / 4             # nur innen rechts der linken Kante
