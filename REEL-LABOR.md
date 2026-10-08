@@ -12,8 +12,8 @@ Auftrag von Patrick (08.10.2026): Themen wild durchmischen, Musik passend zur St
    - **Flop**: Aufrufe < 0,6× Schnitt UND Anschauquote < 20 %
 3. **Handeln**:
    - **Top** → in 3–4 Wochen erneut posten (frische Caption, anderes Startbild). Wird es lange angeschaut (≥ 60 % bei unter 15 s): eine **längere Version** bauen (20–35 s, Teil 2, mehr Details).
-   - **Flop 1×** → gleiches Thema neu bauen: **anderes Layout + andere Musik + neuer Hook**, in 1–2 Wochen erneut testen.
-   - **Flop 2×** → Video raus (Status „raus“ im Log, nie wieder posten). Thema komplett neu denken, neues Material.
+   - **Flop 1×** → ein zweites Mal posten (Patrick 08.10.2026): andere Uhrzeit/Tag, neue Caption, neues Startbild, gern mit neuem Hook, Layout und Musik. Nach 1–2 Wochen.
+   - **Flop 2×** → sofort umbauen: Video raus (Status „raus“, nie wieder posten) und ein komplett neues Video bauen: neues Layout, neue Hintergrundmusik, neuer Content, neues Konzept.
 4. **Planen**: nächste 7 Tage, jeden Tag 1 Reel um die beste Zeit laut Metricool (Start: 10 Uhr).
 
 ## Mischregeln
