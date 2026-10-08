@@ -221,3 +221,66 @@ Hook: "Tag 1 von 12: So sieht ein Badumbau wirklich aus."
 Hook: "Wie lange dauert ein Badumbau? Wir zeigen jeden Tag."
 Hook: "Dieses Bad ist älter als du denkst."
 CTA: "Welches Bad sollen wir als Nächstes zeigen? Schreib es in die Kommentare."
+
+--- 08.10.2026 Wochen-Sammlung (Saison Herbst: Schwerpunkt Heizung/Wartung) ---
+Anregungen aus: Ratgeber zu Heizungs-Check vor der Heizsaison (Viessmann, haustechnikdialog, ZDF, Öko-Test), Wärmepumpe-Altbau-FAQs (Vattenfall, co2online), Badsanierung-Ratgeber (bau.de), Split-Klima mit PV (homeandsmart, infranken). Nichts wörtlich übernommen, keine Zahlen verwendet.
+
+HEIZUNG / WÄRMEPUMPE
+Hook: "Gluckert deine Heizung schon wieder?"
+Hook: "Erster kalter Morgen, Heizung bleibt kalt?"
+Hook: "Wann war deine Heizung zuletzt beim Check?"
+Claim: "Wir schauen vor dem Winter rein. Nicht erst, wenn's kalt ist."
+Claim: "Wärmepumpe? Erst die Heizlast, dann das Angebot."
+Caption:
+Die ersten kalten Nächte sind da.
+Jetzt zeigt sich, ob deine Heizung fit ist: Gluckert es? Wird ein Heizkörper nur halb warm? Fällt der Druck?
+Wir machen Wartung, Entlüften und Check. Egal ob Gas, Öl oder Wärmepumpe.
+Kommentiere HEIZUNG oder ruf an: 09132 / 74 97 5-27.
+Frage: "Warum wird mein Heizkörper oben nicht warm?"
+Antwort: Meist ist Luft im System. Entlüften hilft oft schon. Kommt die Luft immer wieder, prüfen wir Druck und Ursache.
+Frage: "Geht eine Wärmepumpe auch in meinem Altbau?"
+Antwort: Oft ja. Entscheidend sind Heizlast und Vorlauftemperatur, nicht das Baujahr. Wir rechnen Raum für Raum und sagen dir ehrlich, ob es passt.
+Frage: "Brauche ich wirklich regelmäßig eine Wartung?"
+Antwort: Sie hält die Anlage sauber eingestellt und deckt Fehler früh auf. Schau auch in deine Garantiebedingungen, viele Hersteller setzen eine regelmäßige Wartung voraus.
+
+SANITÄR / BAD / FLIESEN
+Hook: "Duschtasse raus. Fliesen bodengleich rein."
+Hook: "Wer fliest eigentlich dein Bad?"
+Hook: "Jetzt planen, im Frühjahr neu duschen."
+Claim: "Planung, Installation, Fliesen: alles aus unserem Team, mit eigenem Fliesenleger."
+Claim: "Erst in der Ausstellung anfassen, dann entscheiden."
+Caption:
+Bodengleiche Dusche statt Einstieg über den Wannenrand.
+Sieht ruhiger aus, putzt sich leichter und passt auch, wenn die Knie mal nicht mehr wollen.
+Wir planen, installieren und fliesen selbst, mit eigenem Fliesenleger. Fliesen und Armaturen schaust du dir vorher in unserer Badausstellung in Aurachtal an.
+Kommentiere DUSCHE und wir melden uns.
+Frage: "Geht bei mir überhaupt eine bodengleiche Dusche?"
+Antwort: Kommt auf Abfluss und Bodenaufbau an. Oft klappt es mit flachem Ablauf oder Duschrinne. Wir schauen es vor Ort an, unser eigener Fliesenleger plant das Gefälle gleich mit.
+Frage: "Wie lange bin ich ohne Bad?"
+Antwort: Hängt vom Umfang ab. Installateur und eigener Fliesenleger sind ein Team, also keine Wartezeit zwischen den Gewerken. Den Zeitplan besprechen wir vorher mit dir.
+
+KLIMA
+Hook: "Klimaanlage planen? Genau jetzt im Herbst."
+Hook: "Dein Dachzimmer wird nie richtig warm?"
+Claim: "Klima vom Fachbetrieb: geplant, montiert, gewartet."
+Caption:
+Klimaanlage im Oktober? Klingt komisch, passt aber gut.
+Im Herbst ist mehr Ruhe für die Planung als mitten in der Hitzewelle. Und viele Split-Geräte heizen in der Übergangszeit mit.
+Wir schauen mit dir, wo Innen- und Außengerät hinpassen, und erstellen dir ein individuelles Angebot.
+Kommentiere KLIMA für einen Termin.
+Frage: "Kann ich mit einer Split-Klimaanlage heizen?"
+Antwort: Ja, die meisten Split-Geräte können auch heizen. Gut für einzelne Räume oder die Übergangszeit. Die Zentralheizung ersetzen sie meist nicht. Mit eigenem PV-Strom am Tag besonders sinnvoll.
+
+PV / SPEICHER / ENERGIEMANAGEMENT
+Hook: "Sonnenstrom verschenken? Lieber selbst nutzen."
+Hook: "Was bringt deine PV-Anlage im November?"
+Claim: "Erst selbst nutzen, dann einspeisen."
+Caption:
+Für neuen Solarstrom gibt es beim Einspeisen wenig, Netzstrom bleibt teuer.
+Darum zählt: Sonnenstrom selbst nutzen. Mit Speicher, Wärmepumpe und Energiemanagement läuft das automatisch.
+Wir verknüpfen das bei dir und erstellen dir ein individuelles Angebot.
+Kommentiere SOLAR.
+Frage: "Lohnt sich ein Stromspeicher für mich?"
+Antwort: Kommt auf deinen Verbrauch an. Wer abends viel Strom braucht oder Wärmepumpe und E-Auto hat, nutzt mit Speicher mehr eigenen Strom. Wir rechnen es mit deinen echten Verbrauchsdaten durch.
+Frage: "Bringt PV im Winter überhaupt was?"
+Antwort: Ehrlich: deutlich weniger als im Sommer. An klaren Tagen trotzdem nutzbar. Den Großteil liefert die Anlage von Frühjahr bis Herbst, und darauf planen wir sie.
