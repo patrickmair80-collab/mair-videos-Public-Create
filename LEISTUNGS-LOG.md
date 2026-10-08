@@ -18,3 +18,5 @@ Regeln siehe REEL-LABOR.md. Kanal-Schnitt Instagram (Sept./Okt. 2026): ca. 60 Au
 | 2026-10-14 | 3 Fehler Heizungstausch | Heizung | L16 Clip | Beat 110 | 10 s | | | | offen | geplant |
 | 2026-10-15 | Bäder aus der Region | Bad/Firma | L10 Polaroid | Lounge 92 | 14 s | | | | offen | geplant |
 | 2026-10-16 | Azubi gesucht | Azubi | L14 Text-Maske | Beat 128 | 12 s | | | | offen | geplant |
+| 2026-10-11 18:00 | Heute bei Mair: Öl raus, Pellet-Tausch | Heizung | L16 Montage | Beat 124 | 14 s | | | | offen | geplant |
+| 2026-10-17 | Klimaanlage heizt im Winter | Klima | L8 POV kalt→warm | Beat 104 | 15 s | | | | offen | geplant |

@@ -24,3 +24,5 @@ Layout-Nummern siehe Skill video-schnitt-mair, Abschnitt „Layout-Rotation“.
 | 2026-10-14 geplant | Heizungstausch 3 Fehler (woche41/05) | L16 echter Clip + Karte | Clip, Inter | Beat 110 | offen |
 | 2026-10-15 geplant | Bad & Bau aus einer Hand (woche41/06) | L10 Polaroid-Stapel | Holztisch, Lora Italic | Lounge 92 | offen |
 | 2026-10-16 geplant | Azubi gesucht (woche41/07) | L14 Text-Maske | dunkel, Inter Black, grüner Rand | Beat 128 | offen |
+| 2026-10-11 geplant | Heute bei Mair: Öl raus, Pellet-Tausch (woche42/08) | L16 Montage echter Clip + Stempel | Fotos/Clip, Inter Black, Rot/Grün | Beat 124 | offen |
+| 2026-10-17 geplant | Klimaanlage heizt im Winter (woche42/09) | L8 POV + Farbwechsel kalt→warm | Blau→Orange, Inter | Beat 104 | offen |
