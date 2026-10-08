@@ -36,3 +36,8 @@ Hook in Sekunde 1, Sound-Effekte, Logo + Telefon + Kommentar-Wort am Ende, Stop-
 - Weg: Bildausschnitt so wählen, dass es draußen ist (bevorzugt), sonst weich unkenntlich machen (delogo/GaussianBlur) oder die Szene weglassen. Danach Standbilder je Szene prüfen.
 - Herstellermaterial (Viessmann, hansgrohe usw.): Freigabe liegt vor, darf genutzt werden. Herstellerlogo darf bleiben, fremde Händler-/Firmenlogos darin nicht.
 - Ordner „08 Inspiration fremd“: Inhalte anderer Creator/Firmen bleiben Ideenquelle. Wasserzeichen entfernen ändert nichts an deren Rechten, also nicht reposten, sondern das Format selbst nachdrehen.
+- 100 %-Regel (Patrick, 08.10.2026): Bei JEDEM hochgeladenen Bild oder Video vor dem Post prüfen, dass keine fremden Personen, keine Wasserzeichen und keine TikTok-/Facebook-/Instagram-Verlinkungen oder Handles zu sehen sind. Im Zweifel nicht posten.
+
+## Aufgabe: Humor-Reels ohne fremdes Material
+- Vorbild „Kunde ruft am Sonntag um 22:56 an“ (Drive 08 Inspiration fremd) nachbauen, aber nur mit eigenem Material: Firmenbild/Transporter/Werkstatt oder Patrick als Comicfigur (Chef im schwarzen Mair-Gebäudetechnik-Outfit, Logo grün-weiß).
+- Comicfigur: aus werbefigur/patrick_ganzkoerper_mair_outfit.png als Comic-Stil erzeugen (KI-Bild, Label „KI-Visualisierung“), dann Szenen mit Text-Overlay + Sound-Effekten + Pointe. Mindestens 1 Humor-Reel alle 2 Wochen testen und im LEISTUNGS-LOG bewerten.
