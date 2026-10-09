@@ -115,18 +115,19 @@ Nur bei passendem Thema: Azubi, Aktionen, Veranstaltungen, regionale Themen.
 
 ### Gemeinsamer Post mit Partnern (ab 09.10.2026 automatisch, Patrick: „Mitwirkende einladen“)
 Bei jedem Instagram-Reel setze ich passende Partner als Mitwirkende (Metricool `instagramData.collaborators`). Der Partner muss die Einladung in seiner App annehmen; lehnt er ab, läuft der Post normal weiter.
-| Thema im Video | Mitwirkende (Instagram) | geprüft |
-|---|---|---|
-| Viessmann-Gerät sichtbar (Vitocal, Vitodens …) | @viessmannclimatesolutionsde | ja, Link auf viessmann.de |
-| Novelan-Wärmepumpe (weißes Gerät, Helox) | @novelan.waermepumpen | ja, Link auf novelan.com |
-| hansgrohe (Armaturen, Brausen) in Bad-/Fliesenvideos | @hansgrohe | ja, offizielles Konto |
-| Geberit (WC, Spülkasten, Dusch-WC, Duschrinne) | @geberit_de | ja, Link auf geberit.de |
-| Samsung-Klima (WindFree) | @samsunggermany | ja (Samsung Deutschland, Link auf samsung.com/de); ein eigenes deutsches Klima-Konto ist nicht bestätigt |
-| Mitsubishi-Klima | @mitsubishi.electric.les | ja, Link auf mitsubishi-les.com |
-| PV, Speicher, Energiemanagement | @memodo.dach | ja |
-| „MTF“-Klimaanlage | offen | Marke von Patrick klären |
-| Partner-Elektriker, Partner-Maurer | offen | Patrick nennt die Namen |
-Regel: Marke im Video sichtbar → Konto automatisch als Mitwirkenden einladen (Patrick 09.10.2026), bei Bad-/Fliesenvideos zusätzlich hansgrohe bzw. Geberit, wenn deren Produkte zu sehen sind.
+Partner-Konten je Kanal (Stand 09.10.2026). Instagram = als Mitwirkende einladen + @ im Text. TikTok/YouTube = @ im Text bzw. in der Beschreibung. Facebook = Seitenname im Text (per Schnittstelle wird @ auf Facebook oft nicht verlinkt; Patrick kann die Seite in der App nachträglich markieren).
+| Im Video zu sehen | Instagram | Facebook | TikTok | YouTube | Beleg |
+|---|---|---|---|---|---|
+| Viessmann | @viessmannclimatesolutionsde | Viessmann Climate Solutions (facebook.com/ViessmannClimateSolutionsGER) | @viessmanncs_de | @ViessmannClimateSolutionsDE | Footer viessmann.de |
+| Novelan (weiße Wärmepumpe, Helox) | @novelan.waermepumpen | NOVELAN (facebook.com/NOVELANDEUTSCHLAND) | – | NOVELAN Wärmepumpen | IG-Link auf novelan.com, Rest Suchtreffer |
+| hansgrohe (Bad, Fliesen, Armaturen) | @hansgrohe | hansgrohe (facebook.com/hansgrohe) | – | hansgrohe (youtube.com/user/hansgrohe) | Suchtreffer, offizielle Konten |
+| Geberit (WC, Dusch-WC, Duschrinne) | @geberit_de | Geberit Deutschland (facebook.com/geberit.de) | – | @GeberitOnAir | Footer geberit.de |
+| G.U.T. Gläser KG Fürth (SHK-Großhandel mit Badausstellung) bei Badausstattung | @gut_glaeser_kg | GUT Gläser KG Fürth (facebook.com/gutglaeser) | – | – | Suchtreffer, vor erstem Einsatz im Profil prüfen |
+| Samsung-Klima (WindFree) | @samsunggermany | Samsung Climate Solutions (europäisch) | – | – | kein deutsches Klima-Konto gefunden |
+| Mitsubishi-Klima | @mitsubishi.electric.les | Mitsubishi Electric LES (facebook.com/mitsubishielectricgermany.les) | – | Mitsubishi Electric – Living Environment Systems | IG-Link auf mitsubishi-les.com |
+| PV, Speicher (Memodo) | @memodo.dach | – | – | @Memodo | IG-Link auf memodo.de |
+| „MTF“-Klima, Partner-Elektriker, Partner-Maurer | offen | | | | Patrick nennt die Namen |
+Regel (Patrick 09.10.2026, „ohne Partner geht es nicht“): Marke im Video sichtbar → auf allen Kanälen verlinken, auf Instagram zusätzlich als Mitwirkende einladen. Bad-/Fliesenvideos: hansgrohe, Geberit und G.U.T. Gläser, wenn deren Produkte bzw. Ausstellung zu sehen sind. Ziel: Reichweite und Follower über die Partner-Communities.
 Max. 1–2 Mitwirkende je Post, nur wenn ihr Produkt oder ihre Arbeit wirklich zu sehen ist.
 
 - **Partner:** Partner-Elektriker, Partner-Maurer, Memodo, Hersteller.
