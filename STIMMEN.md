@@ -1,4 +1,12 @@
-# Sprecherstimme: immer "Stimme 4" (Stand 09.10.2026)
+# Sprecherstimme (Stand 09.10.2026, final)
+
+**Gewählt: Hörprobe 3 "Thorsten rein deutsch"** = Piper-Modell `de_DE-thorsten-high` (rhasspy/piper-voices, Sprecher Thorsten Müller, frei nutzbar). Rein deutsch, deterministisch, kein Stocken, kein Englisch. length-scale 1.1, sentence-silence 0.4. Chatterbox (Stimme 4) wird NICHT mehr verwendet.
+
+Aussprache-Schreibweisen nur für die Stimme (Untertitel bleiben normal): Gebäudetechnik → "Gebäude-Technik", Stromspeicher → "Strohmspeicher", Wärmepumpe → "Wärme-Pumpe", Aurachtal → "Aurachthal" (Betonung AU-rach-tal). Neue Wörter vorher mit phonemize() prüfen.
+
+---
+
+# Alt: "Stimme 4"
 
 **Regel von Patrick:** In allen Videos immer dieselbe Stimme. Langsam, sauber, natürlich. Kein Englisch, kein amerikanischer Slang, keine Abkürzungen im Sprechertext. Nicht zwischen Stimmen wechseln.
 

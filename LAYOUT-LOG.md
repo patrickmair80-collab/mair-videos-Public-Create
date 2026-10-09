@@ -66,3 +66,16 @@ Layout-Nummern siehe Skill video-schnitt-mair, Abschnitt „Layout-Rotation“.
 | L35 Röntgenblick/Blueprint | Armatur von innen | Raster, Scanlinie, Callouts WARM/KALT/KARTUSCHE, Schreibmaschine | Conrad |
 | L36 Tropfen-Typo + Fliesen-Endcard | Regendusche von innen | fallende Wörter, Tropfen-Badge, echtes Mair-Bad, Fliesenraster | Katja |
 Regel: nächste Reels dürfen keins dieser 6 Layouts wiederholen, bevor 3 andere dazwischen liefen.
+
+## 09.10.2026 abends: L37–L44 (Thorsten-Stimme)
+| Layout | Reel | Stil |
+|---|---|---|
+| L37 Kino-Breitbild | Klima Mini-Monteure | schwarze Balken, Kapitel-Titel, Serif-Untertitel, Abspann |
+| L38 Notizbuch + Polaroid | Klima Miniatur | Karopapier, Polaroid, Checkliste mit Haken, Textmarker, Haftnotiz |
+| L39 Magazin-Titelseite | Wärmepumpe Viessmann | "MAIR"-Cover, jede Szene neue Ausgabe, Umblättern |
+| L40 Videoanruf | Außengerät mit Gesicht | "Dein Außengerät ruft an", Call-Ansicht, Live-Untertitel, Kontaktkarte |
+| L41 Quiz | Armatur von innen | Kreisbild, Antworten A/B/C, Auflösung, Konfetti |
+| L42 Lichtkegel + Textring | Regendusche | Kreis im Lichtkegel, drehender Textring, Einzelwort groß |
+| L43 Kündigungsschreiben | Ölkessel | "Liebe Ölheizung, hiermit kündige ich dich", Stempel RAUS DAMIT |
+| L44 Handy-Dashboard | E3DC eigene Anlage | App im Handy, Zahlen-Sticker, Foto eigene Anlage |
+Renderer: werkzeuge/render3_layouts_L37-L44.py
