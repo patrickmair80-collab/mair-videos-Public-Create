@@ -26,3 +26,11 @@ Layout-Nummern siehe Skill video-schnitt-mair, Abschnitt „Layout-Rotation“.
 | 2026-10-16 geplant | Azubi gesucht (woche41/07) | L14 Text-Maske | dunkel, Inter Black, grüner Rand | Beat 128 | offen |
 | 2026-10-11 geplant | Heute bei Mair: Öl raus, Pellet-Tausch (woche42/08) | L16 Montage echter Clip + Stempel | Fotos/Clip, Inter Black, Rot/Grün | Beat 124 | offen |
 | 2026-10-17 geplant | Klimaanlage heizt im Winter (woche42/09) | L8 POV + Farbwechsel kalt→warm | Blau→Orange, Inter | Beat 104 | offen |
+
+**Neu L21 (08.10.2026):** 3D-Maskottchen Vollbild „spricht“: Figur füllt das Bild, Zoom-Puls im Sprechrhythmus, Wackeln bei Klopfen/Bong, Hook oben, Wort-Untertitel, dunkle Endkarte. Genutzt: Öltank, Gasrechnung, Sonntag 22:56.
+
+**Neu L22 (09.10.2026):** Karten-Layout hell: heller Hintergrund mit Streifen, Bild als abgerundete Karte mit Schatten, schiebt von rechts rein, große Überschrift mit Limettenbalken, Karaoke-Untertitel unter der Karte, helle Endkarte mit schräger Mini-Karte und großem Kommentar-Wort. Musik: leichte Pluck-Melodie 104 BPM, Spül-Sound.
+| 2026-10-08 Entwurf | 3D Öltank leer | L21 Maskottchen Vollbild | KI-Grafik, Grün | Beat | offen |
+| 2026-10-08 Entwurf | 3D Gasrechnung | L21 Maskottchen Vollbild | KI-Grafik, Grün | Beat | offen |
+| 2026-10-08 Entwurf | 3D Sonntag 22:56 | L21 Maskottchen Vollbild | KI-Grafik, dunkel | Telefon + Beat | offen |
+| 2026-10-09 Entwurf | 3D Bad eigener Fliesenleger | L22 Karten-Layout hell | KI-Grafik, Nimbus Sans, Limette | Pluck 104 | offen |

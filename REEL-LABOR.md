@@ -40,4 +40,36 @@ Hook in Sekunde 1, Sound-Effekte, Logo + Telefon + Kommentar-Wort am Ende, Stop-
 
 ## Aufgabe: Humor-Reels ohne fremdes Material
 - Vorbild „Kunde ruft am Sonntag um 22:56 an“ (Drive 08 Inspiration fremd) nachbauen, aber nur mit eigenem Material: Firmenbild/Transporter/Werkstatt oder Patrick als Comicfigur (Chef im schwarzen Mair-Gebäudetechnik-Outfit, Logo grün-weiß).
-- Comicfigur: aus werbefigur/patrick_ganzkoerper_mair_outfit.png als Comic-Stil erzeugen (KI-Bild, Label „KI-Visualisierung“), dann Szenen mit Text-Overlay + Sound-Effekten + Pointe. Mindestens 1 Humor-Reel alle 2 Wochen testen und im LEISTUNGS-LOG bewerten.
+- Comicfigur: 3D-Comic-Patrick aus maskottchen/ (Drive „3D-Maskottchen Comic-Patrick“, Bilder 01–07, Label „KI-Grafik“), dann Szenen mit Text-Overlay + Sound-Effekten + Pointe. Mindestens 1 Humor-Reel alle 2 Wochen testen und im LEISTUNGS-LOG bewerten.
+
+## Hooks: stark oder gar nicht (Patrick, 09.10.2026)
+Die ersten 1–2 Sekunden entscheiden. Jeder Hook erfüllt mindestens 2 von 4:
+1. **Direkt angesprochen:** „Dein Öltank ist leer …“, „Hausbesitzer in Herzogenaurach …“
+2. **Schmerz oder Geld:** Gasrechnung, Ölpreis, Bad von 1990, Schimmel, kalte Füße
+3. **Offene Schleife:** Frage oder Behauptung, die erst am Ende aufgelöst wird
+4. **Bewegung im ersten Bild:** Figur läuft/zeigt/klopft, Schnitt nach max. 1,5 s
+
+Hook-Typen im Wechsel (nie zweimal hintereinander derselbe Typ):
+- Frage mit Ort („Herzogenaurach: Bad von 1990?“)
+- Provokation („Du zahlst zu viel fürs Heizen. Punkt.“)
+- Zahl/Fakt („3 Tage. Altes Bad raus.“)
+- Fehler zeigen („Das sehen wir jede Woche …“)
+- Humor/Situation („Sonntag, 22:56, Telefon klingelt“)
+- Vorher/Nachher-Schnitt in Sekunde 1
+
+Jeder Hook wird im LEISTUNGS-LOG mit Typ eingetragen. So sieht man nach 2–3 Wochen, welcher Typ bei uns zieht.
+
+## Selbst besser werden (läuft ohne Rückfrage)
+Patricks Auftrag: Gute Videos wieder hernehmen, schlechte sofort umbauen, eigene Strategie aufbauen und sich selbst verbessern.
+- **Gewinner-Muster** in WAS-WIRKT.md pflegen: Hook-Typ, Thema, Layout, Musik, Länge, Uhrzeit der Top-Reels. Neue Reels zuerst aus diesen Mustern bauen.
+- **Vergleich mit gestern:** Läuft ein neues Reel nach 48 h schwächer als das beste Reel der letzten 7 Tage, sofort ändern: neuer Hook, neues Startbild, andere Uhrzeit (zweiter Versuch). Ist auch der zweite Versuch schwach, wird es komplett neu gebaut (neues Layout, neue Musik, neuer Inhalt, neues Konzept).
+- **Gewinner verlängern:** Top-Reel → Teil 2, längere Version oder gleiches Muster mit anderem Thema.
+- **Wöchentlich nachlernen:** Trend-Radar (montags) liefert virale Handwerker-Formate; die besten 1–2 Ideen gleich in die Wochenplanung.
+- Freigabe bleibt: Neue, von Patrick ungesehene Videos erst zeigen, dann posten.
+
+## 3D-Maskottchen in Bewegung
+- Jetzt (kostenlos): Stimme, Wort-Untertitel, Zoom/Wackeln, Karten- und Schnitt-Layouts.
+- Mit Credits (Patrick entscheidet über Geld): echte Lippenbewegung und Laufen zur Kamera.
+  - Sprechen: ElevenLabs „MiniMax H3 Max Lip Sync“ oder „OmniHuman 1.5“ (Bild + Sprachaudio, funktioniert mit 3D-Cartoons, 5–14,8 s je Satz).
+  - Laufen/Bewegung: Bild-zu-Video (Kling 3 / Veo 3.1 / Seedance) mit Startbild aus maskottchen/, z. B. „läuft auf die Kamera zu, bleibt stehen, klopft auf die Wärmepumpe“.
+  - Danach Ton und Untertitel wie gewohnt drüberlegen, Label „KI-Grafik“.
