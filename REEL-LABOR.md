@@ -73,3 +73,12 @@ Patricks Auftrag: Gute Videos wieder hernehmen, schlechte sofort umbauen, eigene
   - Sprechen: ElevenLabs „MiniMax H3 Max Lip Sync“ oder „OmniHuman 1.5“ (Bild + Sprachaudio, funktioniert mit 3D-Cartoons, 5–14,8 s je Satz).
   - Laufen/Bewegung: Bild-zu-Video (Kling 3 / Veo 3.1 / Seedance) mit Startbild aus maskottchen/, z. B. „läuft auf die Kamera zu, bleibt stehen, klopft auf die Wärmepumpe“.
   - Danach Ton und Untertitel wie gewohnt drüberlegen, Label „KI-Grafik“.
+
+## Format, Safe Zone, Qualität (Patrick, 09.10.2026)
+- **Strikt 9:16** (1080×1920).
+- **Safe Zone:** Kein wichtiger Text in den oberen 200 px (Profil/Kopfzeile), nicht unter y = 1500 (Beschreibung, Buttons) und nicht rechts außen ab y = 900 (Like-, Kommentar-, Teilen-Buttons, ca. 140 px). Untertitel bei y ≈ 1330–1420, Breite x 40–940. Marken-Pill und KI-Label oben links bei y = 200.
+- **Untertitel immer animiert** (Wort für Wort, aktives Wort farbig). CapCut hat keine Schnittstelle für mich; unsere Engine macht das automatisch. Patrick kann CapCut-Auto-Untertitel zusätzlich in der App nutzen.
+- **Musik unter Sprache auf 5–10 %** (Ducking in der Engine).
+- **Qualität vor Menge:** lieber 1 durchdachtes Reel mit klarer Botschaft und Story als 5 schwache Clips. Jedes Reel: 1 Botschaft, Hook in 3 s, Mittelteil mit Spannung, klarer CTA.
+- **Video-Typen im Wechsel** (siehe STRATEGIE-VORLAGEN-PATRICK.md): Erklärvideo, Behind the Scenes, Kundenstimme (ohne Namen), Listicle (Top 3), Trend/Humor, POV. Vorlagen „3 Fehler“, „Nutzen + B-Roll“, „POV“ nutzen.
+- Checkliste vor Post: Hook 3 s, Untertitel, Safe Zone, Musik leise unter Sprache, Caption mit 2–3 Sätzen Mehrwert + 5 Hashtags (LOKAL-SEO.md).
