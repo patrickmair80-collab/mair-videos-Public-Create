@@ -27,3 +27,12 @@
 | Bad Regendusche (L36) | Bad_Regendusche_von_innen_Stimme4.mp4 |
 | Ölkessel raus (L25) | Oelkessel_Raus_damit_L25_Stimme4.mp4 (geplant Di 13.10. 17:30) |
 | E3DC eigene Anlage (L26) | E3DC_eigene_Anlage_L26_Stimme4.mp4 (geplant Sa 10.10. 17:30) |
+
+## Nachbearbeitung jeder Zeile (Pflicht, seit 09.10.2026 abends)
+- Patrick: "Stimme stockt, Ton nach dem Sprechen". Ursache: Chatterbox erzeugt Pausen bis 1,3 s und ein leises Rauschen/Pfeifen nach dem letzten Wort; loudnorm hat es hörbar gemacht.
+- clean2.py: Sprache per Pegel erkennen, direkt nach dem letzten Wort hart schneiden + 80 ms ausblenden, Pausen > 0,25 s auf 0,22 s kürzen, kurze Geräusch-Fetzen nach langer Pause verwerfen, feste Lautstärke statt loudnorm.
+- Stimmkette ohne loudnorm: Hochpass, EQ, sanfter Kompressor, +10 dB. Ergebnis ca. -16 LUFS.
+- Kontrolle: Sprachspur allein messen, zwischen den Sätzen muss echte Stille sein.
+
+## Wasserzeichen in fremden Clips
+- Instagram-Name wandert am Clip-Ende (ca. ab Bild 280 von 300) nach unten links oder als großes Logo in die Bildmitte. Fremde Clips deshalb immer vor diesem Punkt einfrieren/abschneiden und jedes Video am Ende Bild für Bild prüfen.
