@@ -37,3 +37,6 @@ Layout-Nummern siehe Skill video-schnitt-mair, Abschnitt „Layout-Rotation“.
 
 **Neu L23 (09.10.2026):** Technik-Blaupause: Earth-Zoom-Opener (Globus → Aurachtal, Pin), dann dunkles Blaupausen-Raster, Schnittbild Vitocal 200-A ie, animierter Kältekreis mit 4 Stationen (Schritt 1/4 …), Comic-Patrick als runde Facecam unten links, Produktkarte mit Chips, Endkarte mit großem Kommentar-Wort. Musik: dunkler Tech-Puls 118 BPM, Riser + Einschlag beim Zoom.
 | 2026-10-09 Entwurf | 3D Wärmepumpe erklärt (Kältekreis, Vitocal 200-A ie) | L23 Technik-Blaupause + Earth-Zoom | Navy, Nimbus Sans, Kalt-Blau/Heiß-Rot | Tech-Puls 118 | offen |
+
+**Neu L24 (09.10.2026):** Persönlicher Opener + Earth-Zoom: Baustein „Lust auf Wärme?“ (Frau, Mair-Flyer, 3,6 s) → Globus → Zoom auf Aurachtal/Herzogenaurach mit 2 Pins → helle Navy-Endkarte mit Vitocal 200-A ie. Musik warm 96 BPM, Männerstimme Florian (bis Chatterbox-Stimme 4 wieder läuft). 13 s.
+| 2026-10-09 Entwurf | Lust auf Wärme + Earth-Zoom | L24 Opener + Earth | Flyer, Luftbild, Navy | warm 96 | offen |
