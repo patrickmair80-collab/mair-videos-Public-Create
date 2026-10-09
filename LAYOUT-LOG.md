@@ -34,3 +34,6 @@ Layout-Nummern siehe Skill video-schnitt-mair, Abschnitt „Layout-Rotation“.
 | 2026-10-08 Entwurf | 3D Gasrechnung | L21 Maskottchen Vollbild | KI-Grafik, Grün | Beat | offen |
 | 2026-10-08 Entwurf | 3D Sonntag 22:56 | L21 Maskottchen Vollbild | KI-Grafik, dunkel | Telefon + Beat | offen |
 | 2026-10-09 Entwurf | 3D Bad eigener Fliesenleger | L22 Karten-Layout hell | KI-Grafik, Nimbus Sans, Limette | Pluck 104 | offen |
+
+**Neu L23 (09.10.2026):** Technik-Blaupause: Earth-Zoom-Opener (Globus → Aurachtal, Pin), dann dunkles Blaupausen-Raster, Schnittbild Vitocal 200-A ie, animierter Kältekreis mit 4 Stationen (Schritt 1/4 …), Comic-Patrick als runde Facecam unten links, Produktkarte mit Chips, Endkarte mit großem Kommentar-Wort. Musik: dunkler Tech-Puls 118 BPM, Riser + Einschlag beim Zoom.
+| 2026-10-09 Entwurf | 3D Wärmepumpe erklärt (Kältekreis, Vitocal 200-A ie) | L23 Technik-Blaupause + Earth-Zoom | Navy, Nimbus Sans, Kalt-Blau/Heiß-Rot | Tech-Puls 118 | offen |
