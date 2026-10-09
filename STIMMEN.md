@@ -1,5 +1,9 @@
 # Stimmen für Mair-Videos (Stand 09.10.2026)
 
+**Entscheidung Patrick (09.10.2026): Stimme 4 = Männerstimme natürlich (Chatterbox, Klangvorlage Florian) ist Standard für Comic-Patrick und Sprecher.** Ersatz, wenn Chatterbox nicht erreichbar: Florian Multilingual (Nr. 3) mit Nachbearbeitung. Frauenstimme: noch offen, bis dahin Nr. 8 / Nr. 7.
+
+Hinweis: Das kostenlose Hugging-Face-Kontingent war am 09.10. nach wenigen Durchläufen aufgebraucht. Mit kostenlosem HF-Konto + Token (Patrick) gibt es mehr Kontingent. Klangvorlagen liegen im Workbench unter /mnt/files/engines/ref_florian.wav und ref_seraphina.wav.
+
 Ziel (Patrick): Stimme soll nicht nach KI klingen, geschmeidig, Abwechslung Mann/Frau.
 
 ## Kostenlose Optionen
