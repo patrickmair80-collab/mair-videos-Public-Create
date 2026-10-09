@@ -126,6 +126,7 @@ Partner-Konten je Kanal (Stand 09.10.2026). Instagram = als Mitwirkende einladen
 | Samsung-Klima (WindFree) | @samsunggermany | Samsung Climate Solutions (europäisch) | – | – | kein deutsches Klima-Konto gefunden |
 | Mitsubishi-Klima | @mitsubishi.electric.les | Mitsubishi Electric LES (facebook.com/mitsubishielectricgermany.les) | – | Mitsubishi Electric – Living Environment Systems | IG-Link auf mitsubishi-les.com |
 | PV, Speicher (Memodo) | @memodo.dach | – | – | @Memodo | IG-Link auf memodo.de |
+| E3/DC Stromspeicher, PV + intelligenter Speicher, Energiemanagement | @e3dc_energystorage | E3/DC Stromspeicher (facebook.com/E3DC.Stromspeicher) | – | E3/DC (youtube.com/channel/UCy82YSU9FxoYhknZ4PFmjrQ) | Footer e3dc.com |
 | „MTF“-Klima, Partner-Elektriker, Partner-Maurer | offen | | | | Patrick nennt die Namen |
 Regel (Patrick 09.10.2026, „ohne Partner geht es nicht“): Marke im Video sichtbar → auf allen Kanälen verlinken, auf Instagram zusätzlich als Mitwirkende einladen. Bad-/Fliesenvideos: hansgrohe, Geberit und G.U.T. Gläser, wenn deren Produkte bzw. Ausstellung zu sehen sind. Ziel: Reichweite und Follower über die Partner-Communities.
 Max. 1–2 Mitwirkende je Post, nur wenn ihr Produkt oder ihre Arbeit wirklich zu sehen ist.
