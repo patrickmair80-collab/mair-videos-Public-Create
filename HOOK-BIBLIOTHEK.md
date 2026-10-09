@@ -34,3 +34,7 @@ Quelle: Liste von Patrick (09.10.2026), auf Mair angepasst. Regeln siehe REEL-LA
 ## Analyse-Werkzeuge (Stand 09.10.2026)
 Schon verbunden und ohne Zusatzkosten: vidIQ Instagram-Insights (eigene Reels), Metricool (alle Kanäle, beste Uhrzeit), AdWhispr (Meta-Werbebibliothek: welche Anzeigen Mitbewerber gerade schalten), wöchentlicher Trend-Radar.
 Bezahl-Tools wie VidMob, Foreplay, AdCreative.ai oder Marpipe erst, wenn Patrick Geld dafür freigibt.
+
+## Energie-Hooks (HOOKS-SHK-ENERGIE.csv, von Patrick)
+Wärmepumpe, PV, Klima, Steuerung, Förderung, je mit Bildidee für die ersten 3 s.
+**Vor Nutzung prüfen**: Aussagen wie „30 % sparen“, „günstiger als Gas“, „100 % Eigenstrom“ oder „der Staat bezahlt“ nur mit belegbaren Zahlen und aktuellem Förderstand (GModG, Stand prüfen) verwenden, sonst abschwächen („bis zu“, „kann“). Altbau-Mythos passt zum Vitocal-Erklär-Reel (bis 75 °C).
