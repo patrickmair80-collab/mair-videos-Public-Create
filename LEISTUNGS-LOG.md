@@ -21,3 +21,7 @@ Regeln siehe REEL-LABOR.md. Kanal-Schnitt Instagram (Sept./Okt. 2026): ca. 60 Au
 | 2026-10-16 | Azubi gesucht | Azubi | L14 Text-Maske | Beat 128 | 12 s | | | | offen | geplant |
 | 2026-10-11 18:00 | Heute bei Mair: Öl raus, Pellet-Tausch | Heizung | L16 Montage | Beat 124 | 14 s | | | | offen | geplant |
 | 2026-10-17 | Klimaanlage heizt im Winter | Klima | L8 POV kalt→warm | Beat 104 | 15 s | | | | offen | geplant |
+| 2026-10-10 17:30 | E3/DC eigene Anlage, echte Werte | PV/Speicher | L26 App-Beweis | Pad + SFX | 24 s | | | | offen | Test 17:30; Mitwirkender e3dc_energystorage |
+| 2026-10-13 17:30 | Ölkessel: Die Alte nervt | Heizung | L25 Stempel → Hersteller | Sprecher + Viessmann-Ton | 18 s | | | | offen | Test 17:30; Mitwirkender viessmann |
+
+**Nachmessung 09.10. (Metricool):** Ölkosten lang 95 Aufrufe / 0 % über 3 s, Ölkosten kurz 23 / 0 %, Memodo 23 / 0 %, Klima 22 / 0 % → alle Grafik-Starts = Flop. Echte Starts 26–40 % (siehe WAS-WIRKT.md).
