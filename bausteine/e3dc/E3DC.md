@@ -32,3 +32,12 @@ Quelle: E3/DC Unternehmensbroschüre 10/2025 (https://www.e3dc.com/wp-data/uploa
 
 ## Partner
 Instagram @e3dc_energystorage (als Mitwirkende), Facebook „E3/DC Stromspeicher“. Bei Systemthemen zusätzlich Viessmann oder Memodo.
+
+## App-Aufnahme eigene Anlage (09.10.2026, 16:48, bewölkter Tag)
+Datei: `e3dc_app_eigene_anlage_2026-10-09.mp4` (Bildschirmaufnahme, 20 s, 1080×2340)
+Echte Werte:
+- PV gerade 886 W, Batterie 100 %, Haus 4,45 kW, Netzbezug 3,55 kW
+- AI 360°: 99 % Autarkie (letzte Stunde)*, "Batterieentladung gesperrt" bei Strompreis 24 ct/kWh
+- Heute: 33,50 kWh Produktion, 11,04 kWh Einspeisung, 1,72 € Ersparnis, 4 kg CO₂
+Regel: Echte App-Werte nicht verfälschen. Für Wunschwerte (z. B. 7 kW PV) nur eigene, klar als "Beispielwerte" gekennzeichnete Grafik, oder an einem Sonnentag neu aufnehmen.
+Zum Schneiden: letzte ~1 s (Benachrichtigungsleiste mit Netzbetreiber/Aufnahme-Hinweis) abschneiden, Statusleiste oben abdecken.
