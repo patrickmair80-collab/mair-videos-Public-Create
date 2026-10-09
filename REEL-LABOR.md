@@ -87,3 +87,12 @@ Patricks Auftrag: Gute Videos wieder hernehmen, schlechte sofort umbauen, eigene
 - Nicht nur Comic-Videos: echte Baustellen-, Team- und Ausstellungsvideos laufen dazwischen. Richtwert: höchstens 1 von 3 Reels mit Comic-Patrick, die anderen echt (Drive-Material, MATERIAL-INDEX.md).
 - Die 3D-Reels (Öltank, Gasrechnung, Sonntag 22:56, Bad, Wärmepumpe erklärt) sind gespeichert (Drive „3D-Maskottchen Comic-Patrick“) und werden verteilt eingeplant, nicht am Stück.
 - Nach 48 h je Format auswerten (echt vs. Comic vs. Erklär-Grafik) und in WAS-WIRKT.md eintragen. Was besser läuft, bekommt mehr Plätze im Plan.
+
+## Experimente im Wechsel (Patrick, 09.10.2026: „flexibel sein, alles ausprobieren, analysieren, durchwechseln“)
+Je Post genau EINE Variable bewusst ändern und im LEISTUNGS-LOG notieren (Spalte Status/Notiz), damit man sieht, was wirkt:
+- **Handlungsaufruf:** Kommentar-Wort (WÄRME, BAD …) · Umfrage im ersten Kommentar (ÖL/GAS/PELLET/WP, ALT/NEU) · offene Frage · „Speichern für später“ · „Schick das deinem Nachbarn“.
+- **Uhrzeit:** Fr 17:00 · Sa 10:00 · So 18:00 · werktags 12:00 vs. 18:00.
+- **Format:** Reel + Story-Wiederholung am Abend · nur Reel · Trial Reel (nur Nicht-Follower) · Karussell mit Fotos.
+- **Material:** echt (Baustelle) · Comic-Patrick · Erklär-Grafik · KI-Szene (Baustein „Lust auf Wärme“).
+- **Hashtag-Set:** Ort Herzogenaurach vs. Aurachtal vs. Erlangen (Formel aus LOKAL-SEO.md bleibt).
+Auswertung Mi + So (Reel-Labor): Gewinner-Variante behalten, Verlierer nicht wiederholen. Instagram-Umfrage-Sticker gibt es nur in der App (nicht per Schnittstelle): Patrick bekommt dafür eine Erinnerung.

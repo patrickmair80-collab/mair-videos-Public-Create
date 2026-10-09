@@ -12,6 +12,7 @@ Regeln siehe REEL-LABOR.md. Kanal-Schnitt Instagram (Sept./Okt. 2026): ca. 60 Au
 | 2026-10-07 | Ölkosten lang | Kosten | L5 Projektmappe | Beat | 74 s | 95 | 3,5 % | 0/1 | Flop 1× | als 3-teilige Kurzserie neu |
 | 2026-10-07 | Memodo Expert Days | PV/Energie | L6 Energienetz | Beat 125 | 26 s | 23 | 24 % | 0/1 | Flop 1× | kürzer, neuer Hook |
 | 2026-10-09 | Eigener Fliesenleger | Bad | L15 Fliesenraster | Spa 72 | 14 s | | | | offen | geplant |
+| 2026-10-09 17:00 | Lust auf Wärme + Earth-Zoom (Wochenende) | Wärmepumpe | L24 Opener + Earth | warm 96 | 13 s | | | | offen | Metricool IG/FB/TikTok/YT; Test: Fr 17 Uhr + Story-Wiederholung 20 Uhr + Frage im 1. Kommentar |
 | 2026-10-10 | Heizsaison-Check | Heizung | L1 Kino | Beat 120 | 15 s | | | | offen | geplant |
 | 2026-10-12 | Wärmepumpe Altbau | Wärmepumpe | L17 Einwand | Beat 125 | 12 s | | | | offen | geplant |
 | 2026-10-13 | Begehbare Dusche | Bad | L7 Chat | Lounge 100 | 16 s | | | | offen | geplant |
