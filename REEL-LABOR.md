@@ -82,3 +82,8 @@ Patricks Auftrag: Gute Videos wieder hernehmen, schlechte sofort umbauen, eigene
 - **Qualität vor Menge:** lieber 1 durchdachtes Reel mit klarer Botschaft und Story als 5 schwache Clips. Jedes Reel: 1 Botschaft, Hook in 3 s, Mittelteil mit Spannung, klarer CTA.
 - **Video-Typen im Wechsel** (siehe STRATEGIE-VORLAGEN-PATRICK.md): Erklärvideo, Behind the Scenes, Kundenstimme (ohne Namen), Listicle (Top 3), Trend/Humor, POV. Vorlagen „3 Fehler“, „Nutzen + B-Roll“, „POV“ nutzen.
 - Checkliste vor Post: Hook 3 s, Untertitel, Safe Zone, Musik leise unter Sprache, Caption mit 2–3 Sätzen Mehrwert + 5 Hashtags (LOKAL-SEO.md).
+
+## Mischung echt + Comic (Patrick, 09.10.2026)
+- Nicht nur Comic-Videos: echte Baustellen-, Team- und Ausstellungsvideos laufen dazwischen. Richtwert: höchstens 1 von 3 Reels mit Comic-Patrick, die anderen echt (Drive-Material, MATERIAL-INDEX.md).
+- Die 3D-Reels (Öltank, Gasrechnung, Sonntag 22:56, Bad, Wärmepumpe erklärt) sind gespeichert (Drive „3D-Maskottchen Comic-Patrick“) und werden verteilt eingeplant, nicht am Stück.
+- Nach 48 h je Format auswerten (echt vs. Comic vs. Erklär-Grafik) und in WAS-WIRKT.md eintragen. Was besser läuft, bekommt mehr Plätze im Plan.
