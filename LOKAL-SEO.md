@@ -115,12 +115,18 @@ Nur bei passendem Thema: Azubi, Aktionen, Veranstaltungen, regionale Themen.
 
 ### Gemeinsamer Post mit Partnern (ab 09.10.2026 automatisch, Patrick: „Mitwirkende einladen“)
 Bei jedem Instagram-Reel setze ich passende Partner als Mitwirkende (Metricool `instagramData.collaborators`). Der Partner muss die Einladung in seiner App annehmen; lehnt er ab, läuft der Post normal weiter.
-| Thema im Video | Mitwirkende |
-|---|---|
-| Viessmann-Gerät sichtbar (Vitocal) | @viessmannclimatesolutionsde |
-| PV, Speicher, Energiemanagement | @memodo.dach |
-| Geberit (WC, Spülkasten, Dusch-WC) | @geberit_de |
-| Partner-Elektriker, Partner-Maurer, Novelan, Samsung | Instagram-Namen fehlen noch: Patrick nennt sie, dann hier eintragen |
+| Thema im Video | Mitwirkende (Instagram) | geprüft |
+|---|---|---|
+| Viessmann-Gerät sichtbar (Vitocal, Vitodens …) | @viessmannclimatesolutionsde | ja, Link auf viessmann.de |
+| Novelan-Wärmepumpe (weißes Gerät, Helox) | @novelan.waermepumpen | ja, Link auf novelan.com |
+| hansgrohe (Armaturen, Brausen) in Bad-/Fliesenvideos | @hansgrohe | ja, offizielles Konto |
+| Geberit (WC, Spülkasten, Dusch-WC, Duschrinne) | @geberit_de | ja, Link auf geberit.de |
+| Samsung-Klima (WindFree) | @samsunggermany | ja (Samsung Deutschland, Link auf samsung.com/de); ein eigenes deutsches Klima-Konto ist nicht bestätigt |
+| Mitsubishi-Klima | @mitsubishi.electric.les | ja, Link auf mitsubishi-les.com |
+| PV, Speicher, Energiemanagement | @memodo.dach | ja |
+| „MTF“-Klimaanlage | offen | Marke von Patrick klären |
+| Partner-Elektriker, Partner-Maurer | offen | Patrick nennt die Namen |
+Regel: Marke im Video sichtbar → Konto automatisch als Mitwirkenden einladen (Patrick 09.10.2026), bei Bad-/Fliesenvideos zusätzlich hansgrohe bzw. Geberit, wenn deren Produkte zu sehen sind.
 Max. 1–2 Mitwirkende je Post, nur wenn ihr Produkt oder ihre Arbeit wirklich zu sehen ist.
 
 - **Partner:** Partner-Elektriker, Partner-Maurer, Memodo, Hersteller.
