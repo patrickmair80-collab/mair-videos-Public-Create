@@ -43,3 +43,9 @@ Layout-Nummern siehe Skill video-schnitt-mair, Abschnitt „Layout-Rotation“.
 
 **Neu L25 (09.10.2026):** Planer-Papier: cremefarbenes Millimeterpapier, große grüne Schrittnummer „01–05“, Schritt-Balken unter dem Titel, echte Dokumentseiten (Mappe/Gutachten, fremde Namen entfernt) fliegen gekippt als Karte rein, Chips poppen darunter, Wort-Untertitel mit Limetten-Markierung, Drop: ganze Mappe fächert auf, dunkelgrüne Endkarte „Erst planen. Dann bauen.“ + Kommentar-Wort PLAN. Hook auf dunkelgrün mit großen Zahlen. Musik Beat 120, Drop 26 s. Sprecher Piper.
 | 2026-10-09 Entwurf | Großprojekt Folge 1: So planen wir ein Heizungsprojekt (34 s) | L25 Planer-Papier | Creme/Grün, Inter Display | Beat 120 | offen |
+
+## L25 – Provokant-Stempel → Hersteller-Video auf Farbfläche (09.10.2026)
+- Teil A: Foto Ölkessel als Ken-Burns-Fahrt, Shake auf "nervt", Hook "DIE ALTE / NERVT." + Aufzähl-Pills, roter Stempel "RAUS DAMIT".
+- Teil B: Viessmann-Originalvideo (Vitocal 200-A ie, 13–20 s) 16:9 mittig, Hintergrund pro Frame aus Videorand gesampelt (nahtlos), Produktname-Pill.
+- Teil C: Navy-Endcard "Raus mit der Alten." + Kommentiere RAUS.
+- Reel: Oelkessel_Raus_damit_L25.mp4 (18,2 s, Florian-Stimme, KI-Label). Drive-ID 1AJAFH5PUKdh-LYFiXFe_p1P1rtRsKQ8i. Status: wartet auf Freigabe + Bildrechte-Klärung.
