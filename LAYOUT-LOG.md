@@ -49,3 +49,9 @@ Layout-Nummern siehe Skill video-schnitt-mair, Abschnitt „Layout-Rotation“.
 - Teil B: Viessmann-Originalvideo (Vitocal 200-A ie, 13–20 s) 16:9 mittig, Hintergrund pro Frame aus Videorand gesampelt (nahtlos), Produktname-Pill.
 - Teil C: Navy-Endcard "Raus mit der Alten." + Kommentiere RAUS.
 - Reel: Oelkessel_Raus_damit_L25.mp4 (18,2 s, Florian-Stimme, KI-Label). Drive-ID 1AJAFH5PUKdh-LYFiXFe_p1P1rtRsKQ8i. Status: wartet auf Freigabe + Bildrechte-Klärung.
+
+## L26 – App-Beweis: echte App als schwebende Karte + Zahlen-Karten (09.10.2026)
+- Navy-Hintergrund, echte E3/DC-App als abgerundete Karte mit Schatten, Callout "100 % voll" an der Batterie.
+- Zahlen-Karten (Glas-Optik) mit Hochzählen: 33,5 kWh Sonnenstrom, 11 kWh eingespeist, 1,72 € gespart. Nur echte App-Werte.
+- Erklär-Teil "Entladung gesperrt?" mit markierten App-Ausschnitten, Endcard "Eigene Anlage vom Chef." + Kommentiere STROM.
+- Sound: synthetisches Pad + Pop/Whoosh. Reel: E3DC_eigene_Anlage_Echte_Werte_L26.mp4 (23,6 s). Drive-ID 1TKRKORwQyIb-xiXXHZF5PXu25uM7ON0l. Partner: @e3dc_energystorage.
