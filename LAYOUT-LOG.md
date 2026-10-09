@@ -40,3 +40,6 @@ Layout-Nummern siehe Skill video-schnitt-mair, Abschnitt „Layout-Rotation“.
 
 **Neu L24 (09.10.2026):** Persönlicher Opener + Earth-Zoom: Baustein „Lust auf Wärme?“ (Frau, Mair-Flyer, 3,6 s) → Globus → Zoom auf Aurachtal/Herzogenaurach mit 2 Pins → helle Navy-Endkarte mit Vitocal 200-A ie. Musik warm 96 BPM, Männerstimme Florian (bis Chatterbox-Stimme 4 wieder läuft). 13 s.
 | 2026-10-09 Entwurf | Lust auf Wärme + Earth-Zoom | L24 Opener + Earth | Flyer, Luftbild, Navy | warm 96 | offen |
+
+**Neu L25 (09.10.2026):** Planer-Papier: cremefarbenes Millimeterpapier, große grüne Schrittnummer „01–05“, Schritt-Balken unter dem Titel, echte Dokumentseiten (Mappe/Gutachten, fremde Namen entfernt) fliegen gekippt als Karte rein, Chips poppen darunter, Wort-Untertitel mit Limetten-Markierung, Drop: ganze Mappe fächert auf, dunkelgrüne Endkarte „Erst planen. Dann bauen.“ + Kommentar-Wort PLAN. Hook auf dunkelgrün mit großen Zahlen. Musik Beat 120, Drop 26 s. Sprecher Piper.
+| 2026-10-09 Entwurf | Großprojekt Folge 1: So planen wir ein Heizungsprojekt (34 s) | L25 Planer-Papier | Creme/Grün, Inter Display | Beat 120 | offen |
