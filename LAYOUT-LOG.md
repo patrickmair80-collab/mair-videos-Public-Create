@@ -55,3 +55,14 @@ Layout-Nummern siehe Skill video-schnitt-mair, Abschnitt „Layout-Rotation“.
 - Zahlen-Karten (Glas-Optik) mit Hochzählen: 33,5 kWh Sonnenstrom, 11 kWh eingespeist, 1,72 € gespart. Nur echte App-Werte.
 - Erklär-Teil "Entladung gesperrt?" mit markierten App-Ausschnitten, Endcard "Eigene Anlage vom Chef." + Kommentiere STROM.
 - Sound: synthetisches Pad + Pop/Whoosh. Reel: E3DC_eigene_Anlage_Echte_Werte_L26.mp4 (23,6 s). Drive-ID 1TKRKORwQyIb-xiXXHZF5PXu25uM7ON0l. Partner: @e3dc_energystorage.
+
+## 09.10.2026 – Serie v2 (alle besprochen, Wasserzeichen entfernt, nur Mair-Branding)
+| Layout | Reel | Stil | Stimme |
+|---|---|---|---|
+| L31 HUD-Einsatz | Klima Mini-Monteure (Gold→Mair-Grün umgefärbt, schwarzer Mair-Bus aus eigenem Bild) | Live-HUD oben rechts, Karaoke-Pill unten | Seraphina, pro Szene eigener Satz |
+| L32 Schritt-Zähler + Center-Karaoke | Klima in Miniatur | Schritt 1–4 Karte, große gelbe Mitte-Wörter, Split kalt/warm | Conrad |
+| L33 Totale + Detail (Split) | Viessmann Wärmepumpe | oben Totale, unten Detail-Zoom, Karaoke-Streifen | Florian |
+| L34 Comic sprechendes Gesicht | Außengerät "Hilfe, keine Luft!" | Sprechblasen Wort für Wort, Sticker, Comic-Kästen, Rasterpunkte | Gesicht: Killian hoch; Erzähler: Florian |
+| L35 Röntgenblick/Blueprint | Armatur von innen | Raster, Scanlinie, Callouts WARM/KALT/KARTUSCHE, Schreibmaschine | Conrad |
+| L36 Tropfen-Typo + Fliesen-Endcard | Regendusche von innen | fallende Wörter, Tropfen-Badge, echtes Mair-Bad, Fliesenraster | Katja |
+Regel: nächste Reels dürfen keins dieser 6 Layouts wiederholen, bevor 3 andere dazwischen liefen.
