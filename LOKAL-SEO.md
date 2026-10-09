@@ -113,7 +113,16 @@ Nur bei passendem Thema: Azubi, Aktionen, Veranstaltungen, regionale Themen.
 | @khserlangen | Kreishandwerkerschaft Erlangen | Ausbildung, Handwerk, Meister |
 | @erlangen.de | Stadt Erlangen | Stadtbezug |
 
-### Gemeinsamer Post mit Partnern
+### Gemeinsamer Post mit Partnern (ab 09.10.2026 automatisch, Patrick: „Mitwirkende einladen“)
+Bei jedem Instagram-Reel setze ich passende Partner als Mitwirkende (Metricool `instagramData.collaborators`). Der Partner muss die Einladung in seiner App annehmen; lehnt er ab, läuft der Post normal weiter.
+| Thema im Video | Mitwirkende |
+|---|---|
+| Viessmann-Gerät sichtbar (Vitocal) | @viessmannclimatesolutionsde |
+| PV, Speicher, Energiemanagement | @memodo.dach |
+| Geberit (WC, Spülkasten, Dusch-WC) | @geberit_de |
+| Partner-Elektriker, Partner-Maurer, Novelan, Samsung | Instagram-Namen fehlen noch: Patrick nennt sie, dann hier eintragen |
+Max. 1–2 Mitwirkende je Post, nur wenn ihr Produkt oder ihre Arbeit wirklich zu sehen ist.
+
 - **Partner:** Partner-Elektriker, Partner-Maurer, Memodo, Hersteller.
 - **So geht's:** Instagram-Funktion „Mitwirkende einladen“. Der Post erscheint dann auch bei deren Followern.
 
