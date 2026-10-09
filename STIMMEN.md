@@ -1,36 +1,29 @@
-# Stimmen für Mair-Videos (Stand 09.10.2026)
+# Sprecherstimme: immer "Stimme 4" (Stand 09.10.2026)
 
-**Entscheidung Patrick (09.10.2026): Stimme 4 = Männerstimme natürlich (Chatterbox, Klangvorlage Florian) ist Standard für Comic-Patrick und Sprecher.** Ersatz, wenn Chatterbox nicht erreichbar: Florian Multilingual (Nr. 3) mit Nachbearbeitung. Frauenstimme: noch offen, bis dahin Nr. 8 / Nr. 7.
+**Regel von Patrick:** In allen Videos immer dieselbe Stimme. Langsam, sauber, natürlich. Kein Englisch, kein amerikanischer Slang, keine Abkürzungen im Sprechertext. Nicht zwischen Stimmen wechseln.
 
-Hinweis: Das kostenlose Hugging-Face-Kontingent war am 09.10. nach wenigen Durchläufen aufgebraucht. Mit kostenlosem HF-Konto + Token (Patrick) gibt es mehr Kontingent. Klangvorlagen liegen im Workbench unter /mnt/files/engines/ref_florian.wav und ref_seraphina.wav.
+## Technik
+- Modell: Chatterbox Multilingual (Resemble AI, MIT-Lizenz), Sprache `de`
+- Referenzstimme: `ref_florian.wav` (Sicherung im Composio-Arbeitsbereich unter /mnt/files/stimme4/)
+- Einstellungen: exaggeration 0.4 (Figuren/Gesichter 0.65), temperature 0.6, cfg 0.5, seed 42
+- Danach: atempo 0.95 (etwas langsamer), Stille abschneiden, VCHAIN (Hochpass, EQ, De-Esser, Kompressor, loudnorm -15 LUFS)
+- Server: Hugging Face Space `ResembleAI/Chatterbox-Multilingual-TTS` (Gratis-Kontingent nach ~3 Sätzen leer), Ausweich-Server mit gleichem Modell: `TGPro1/Chatterbox-Multilingual-TTS` (CPU, ca. 30-45 s pro Satz, kein Kontingent)
+- Kontrolle: jede Zeile per Whisper zurückschreiben, bei Wiederholungen/Nuscheln mit anderem Seed neu erzeugen und die bessere nehmen (pick.py)
 
-Ziel (Patrick): Stimme soll nicht nach KI klingen, geschmeidig, Abwechslung Mann/Frau.
+## Schreibregeln für Sprechertexte
+- "Maier" schreiben, damit es richtig ausgesprochen wird (im Bild steht "Mair")
+- Keine sehr kurzen Einzelsätze (1-2 Wörter): das Modell wiederholt sie sonst. Lieber zusammenfassen ("Die Halterung. Die Leitungen. Und sie läuft.")
+- Ersetzen: App → am Handy · KI → künstliche Intelligenz · E3/DC → Hauskraftwerk/Speicher · WindFree → weglassen (nur im Bild) · 200-A ie → "die Wärmepumpe von Viessmann" · Zahlen ausschreiben
+- Produktnamen und Abkürzungen dürfen im Bild stehen, nicht im Sprechertext
 
-## Kostenlose Optionen
-| Nr. | Stimme | Werkzeug | Hinweis |
-|---|---|---|---|
-| 1 | Conrad (Mann, bisher) | edge-tts | klingt am ehesten nach Ansage |
-| 2 | Killian (Mann) | edge-tts | |
-| 3 | Florian Multilingual (Mann) | edge-tts | neuere, natürlichere Stimme |
-| 4 | Mann natürlich | Chatterbox Multilingual (Resemble AI, MIT-Lizenz, kostenloser Hugging-Face-Space) mit Florian als Klangvorlage | natürlichere Betonung |
-| 5 | Katja (Frau, bisher Kundin) | edge-tts | |
-| 6 | Amala (Frau) | edge-tts | |
-| 7 | Seraphina Multilingual (Frau) | edge-tts | neuere, natürlichere Stimme |
-| 8 | Frau natürlich | Chatterbox mit Seraphina als Klangvorlage | |
-
-Testdatei: Drive „3D-Maskottchen Comic-Patrick“ → Mair_Stimmen_Test_8_Stimmen.mp4. Patrick wählt nach Gehör.
-
-## Nachbearbeitung (immer)
-ffmpeg-Kette: Trittschall raus (80 Hz), weniger Dröhnen (250 Hz −2 dB), mehr Präsenz (3,5 kHz +2 dB), De-Esser, sanfter Kompressor, kleiner Raumklang, Lautheit −16 LUFS (Endmix −14).
-
-## Beste Lösung: Patricks eigene Stimme
-Chatterbox kann aus 10–20 s Sprachaufnahme die Stimme nachbilden. Nur mit Patricks Zustimmung und nur seine eigene Stimme (keine fremden Personen). Aufnahme: ruhiger Raum, Handy 20 cm vom Mund, normal sprechen.
-
-## Abwechslung
-- Comic-Patrick spricht mit Männerstimme (fest, wiedererkennbar).
-- Kundin/Kunde, Erklär-Stimme oder Sprecherin im Wechsel mit Frauenstimme.
-- Nie zweimal hintereinander dieselbe Sprecher-Kombination in Reels.
-
-## Grenzen
-- Hugging-Face-Gratiskontingent (GPU-Minuten pro Tag) ist begrenzt. Mit kostenlosem HF-Konto + Token mehr Kontingent.
-- ElevenLabs/vidIQ-Stimmen nur mit Credits.
+## Umgestellte Videos (Drive-Ordner Reels)
+| Video | Datei |
+|---|---|
+| Klima Mini-Monteure (L31) | Klima_MiniMonteure_HUD_Stimme4.mp4 |
+| Klima Miniatur Schritte (L32) | Klima_Miniatur_Schritte_Stimme4.mp4 |
+| Wärmepumpe Viessmann Split (L33) | Waermepumpe_Viessmann_Split_Stimme4.mp4 |
+| Klima Gesicht spricht (L34) | Klima_Gesicht_spricht_Comic_Stimme4.mp4 |
+| Bad Armatur Röntgenblick (L35) | Bad_Armatur_Roentgenblick_Stimme4.mp4 |
+| Bad Regendusche (L36) | Bad_Regendusche_von_innen_Stimme4.mp4 |
+| Ölkessel raus (L25) | Oelkessel_Raus_damit_L25_Stimme4.mp4 (geplant Di 13.10. 17:30) |
+| E3DC eigene Anlage (L26) | E3DC_eigene_Anlage_L26_Stimme4.mp4 (geplant Sa 10.10. 17:30) |
