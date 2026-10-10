@@ -10,7 +10,7 @@ Alle Agenten arbeiten selbstständig, lesen dieses Repo und schreiben ihre Ergeb
 | Reel-Check | Mo, Di, Do, Fr, Sa 20:44 | Tagesanalyse, Meta-Werbebibliothek (Mo/Do), nächste 3 Tage aktualisieren, Mail-Bericht an info@ |
 | Rhythmus-Analyst | Mo 8:52 | prüft 1 oder 2 Posts pro Tag, beste Uhrzeiten, passt POSTING-RHYTHMUS.md und den Plan an |
 | Produkt-Radar | 3. und 17. jedes Monats 7:56 | neue Daten Vitocal 200-A ie, Vergleich mit 250-A, Mythos-Fakten aktuell halten |
-| Skill-Radar | Di + Fr 7:58 | neue Skills nach find-skills-Methode (skills.sh, Qualitätsprüfung), Vorschlag als Karte, Liste in SKILL-RADAR.md |
+| Skill-Radar | Mo + Mi + Fr 7:58 (Mo Video, Mi Projekte/Büro, Fr Social/Verkauf) | neue Skills nach find-skills-Methode (skills.sh, Qualitätsprüfung), Vorschlag als Karte, Liste in SKILL-RADAR.md |
 | Lead-Wächter | täglich 5–18 Uhr | ViContact-Leads, Kundenmails, Tagesbericht |
 
 Feste Regeln: REEL-LABOR.md (inkl. 10.10.2026), STIMMEN.md (Thorsten), MUSIK.md, LOKAL-SEO.md, WERBEBIBLIOTHEK.md.
