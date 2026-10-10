@@ -1,1 +1,1 @@
-{ "name": "mair-regeln", "version": "0.1.0", "description": "Mair Gebäudetechnik: Regeln in jede Antwort, Caption-Prüfer vor dem Posten, Lösch-Warnung" }
+{ "name": "mair-regeln", "version": "0.1.1", "description": "Mair Gebäudetechnik: Regeln in jede Antwort, Caption-Prüfer vor dem Posten, Lösch-Warnung", "author": { "name": "Patrick Mair" } }
