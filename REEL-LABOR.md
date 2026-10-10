@@ -113,3 +113,6 @@ Siehe POSTING-RHYTHMUS.md (wird jeden Montag vom Rhythmus-Analysten aktualisiert
 
 ## Serie „Mythos Wärmepumpe“ (seit 10.10.2026)
 Fakten und Ideen in MYTHOS-WAERMEPUMPE.md. 1 Mythos pro Woche, Freitag 10:00, jedes Mal anderes Layout. Kommentar-Wort MYTHOS. Zahlen nur aus der Datei bzw. frisch geprüft.
+
+## Neue Serien aus @dinero_media-Analyse (10.10.2026)
+„Wir heizen nicht für draußen“ (Wärmebild), „Wartung mit der Kamera“ (Klima/Heizung), „Reparieren oder neu?“ (ehrliche Einschätzung). Details in LAYOUT-IDEEN.md. Saisonregel: Winter-Themen früh bringen, Sommer-Themen (Klima kühlen) ab März.
