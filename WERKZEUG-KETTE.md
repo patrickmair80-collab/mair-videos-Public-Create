@@ -40,3 +40,7 @@ Regel: Gratis-Ergebnis mit Wasserzeichen oder ohne kommerzielle Freigabe wird NI
 - Instagram-Analyse über Composio-Instagram (Business-Konto, 35 Follower Stand 10.10.): Reichweite ist der Engpass, nicht die Produktion.
 - Instagram Edits (gratis, Handy): für Patricks eigene Baustellen-Clips, automatische Untertitel, Export ohne Wasserzeichen, Insights der letzten 10 Reels.
 - Probeweise Trial-Reels (Metricool instagramData.type TRIAL_REEL) für Hook-Tests bei Nicht-Followern.
+
+## Große Dateien ins Google Drive (seit 10.10.2026)
+Datei ins Repo committen und pushen, dann im Composio-Workbench per raw.githubusercontent.com laden, mit upload_local_file + GOOGLEDRIVE_UPLOAD_FILE in den Ordner legen. Metricool nimmt raw.githubusercontent.com-Links direkt als Medien.
+Drive-Ordner: Werbeplakate 1G-dnbcMa5J70STB4mAimanYA_hXM4VJO, Reels/Karussells 13sIx9_3yTFB6lF6IIYP5AYnoqdqDj2h6.

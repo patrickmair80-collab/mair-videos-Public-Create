@@ -116,3 +116,14 @@ Fakten und Ideen in MYTHOS-WAERMEPUMPE.md. 1 Mythos pro Woche, Freitag 10:00, je
 
 ## Neue Serien aus @dinero_media-Analyse (10.10.2026)
 „Wir heizen nicht für draußen“ (Wärmebild), „Wartung mit der Kamera“ (Klima/Heizung), „Reparieren oder neu?“ (ehrliche Einschätzung). Details in LAYOUT-IDEEN.md. Saisonregel: Winter-Themen früh bringen, Sommer-Themen (Klima kühlen) ab März.
+
+## Neues Format: Wisch-Karussell (seit 10.10.2026)
+- Idee von Patrick: mehrere Bilder hintereinander, Leute wischen durch und bleiben länger dran.
+- **1 Karussell pro Woche** im Plan, gern an einem 17:30-Slot. 6 bis 10 Seiten, Format 1080 × 1350.
+- Aufbau: Seite 1 Hook mit großer Zahl oder Frage. Pro Seite genau eine Aussage. Vorletzte Seite „Stand + Quelle“, letzte Seite CTA mit „Anfrage in 1 Minute: Link in der Bio“ und Telefon.
+- Fakten nur geprüft, mit Stand-Datum. Gesetzesthemen klar als Entwurf kennzeichnen.
+- **Nie fremde Karussells umlabeln** (z. B. 1KOMMA5°, Enpal): nur Thema und Format übernehmen, Texte und Grafiken selbst bauen.
+- Viessmann/ViCare nur als Text nennen, Logo nur als offizielle Datei mit Freigabe.
+- Bauplan: karussells/solar-2027/build.py (Vorlage für neue Themen). Ablage Drive: Reels/Karussells.
+- Erstes Karussell: Solar ab 2027 (EEG-Entwurf), geplant Di 14.10. 17:30 Instagram + Facebook.
+- Themen-Ideen: Wärmepumpe Mythen in 7 Wischern, Badumbau Ablauf in 8 Schritten, Förderung 2027, Heizung entlüften, Klima heizt auch.
