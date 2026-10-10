@@ -96,3 +96,9 @@ Je Post genau EINE Variable bewusst ändern und im LEISTUNGS-LOG notieren (Spalt
 - **Material:** echt (Baustelle) · Comic-Patrick · Erklär-Grafik · KI-Szene (Baustein „Lust auf Wärme“).
 - **Hashtag-Set:** Ort Herzogenaurach vs. Aurachtal vs. Erlangen (Formel aus LOKAL-SEO.md bleibt).
 Auswertung Mi + So (Reel-Labor): Gewinner-Variante behalten, Verlierer nicht wiederholen. Instagram-Umfrage-Sticker gibt es nur in der App (nicht per Schnittstelle): Patrick bekommt dafür eine Erinnerung.
+
+## Regeln vom 10.10.2026 (Patrick)
+- **Klima ganzjährig:** Klimaanlagen heizen in der Übergangszeit, kühlen im Sommer und filtern mit passendem Filter Pollen und Feinstaub (z. B. Samsung WindFree, Freigabe da). Jeden **Mittwoch 17:30 ein Klima-Post** (Klima-Mittwoch). Nicht ins Frühjahr schieben.
+- **Wortwahl:** nie "nur noch X Termine", sondern "Für diese Heizsaison sind noch Kapazitäten frei."
+- **Jede Caption:** Ort im ersten Satz, genau 5 Hashtags mit 2 Orten, "Anfrage in 1 Minute: Link in der Bio" (Formular tally.so/r/dWLd5r).
+- **Abwechslung:** jede Woche mindestens 1 neues Layout (Layout-Scout), nie ein Layout der letzten 14 Tage, nie dieselbe Musik zweimal hintereinander.

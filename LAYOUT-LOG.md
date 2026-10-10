@@ -94,3 +94,5 @@ Quellen: async.com/blog/instagram-reels-formats, anijam.ai/blog/instagram-reels-
 | L50 Bewerbungsbogen | Ausbildung | Klemmbrett auf Holz, Kugelschreiber füllt aus, Haken, angeklammerte Fotos, Unterschrift | m15 Rock |
 | L51 Wetterbericht | Klima heizt auch | TV-Studio, Regionalkarte mit Schnee, Thermometer, Laufband, Szenen-Wischer | m19 Winter-Orchester |
 Renderer: werkzeuge/alt7/ (kit.py + l45…l51). Prüfung vor jedem Upload: qa.py (Sprache, Standbilder, Pegel, Ausklang) + Bildkontrolle durch Prüf-Agent.
+
+| L52 Modus-Rad | Klima heizt, kühlt, filtert (Samsung WindFree) | Moduswahl wie Fernbedienung, Raumfarbe je Modus, Pollen/Feinstaub-Partikel werden eingesogen, Karaoke-Untertitel, Kachel-Finale | m21 Joy |

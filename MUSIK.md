@@ -24,5 +24,5 @@ Regel: jedes Video bekommt ein eigenes Stück, kein Stück doppelt hintereinande
 | m18 | Sommer | Tropical beach | szegvari | frei |
 | m19 | Winter | Happy Winter Snow (Orchester) | szegvari | Klima Wetterbericht L51 |
 | m20 | Country | Country Bumpkin | Beetlemuse | frei |
-| m21 | Freude | Joy | Seth_Makes_Sounds | frei |
+| m21 | Freude | Joy | Seth_Makes_Sounds | Klima Modus-Rad L52 |
 | m22 | Technik | Super Duper Cinematic Synth Song | Seth_Makes_Sounds | E3DC L44 |
