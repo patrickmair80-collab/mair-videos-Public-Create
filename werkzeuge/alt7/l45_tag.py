@@ -149,6 +149,12 @@ def frame(t):
         lg = logo(300); img.paste(lg, (W - 300 - 80, 1640 - 0), lg)
     if t < TR.st(5) - 0.1: marker_sub(img, t, 1488)
     else: marker_sub(img, t, 1440)
+    z = 0
+    if t < 2.9: z = 0.045 * t / 2.9
+    elif t > TR.st(5) - 0.3: z = 0.05 * ease((t - TR.st(5) + 0.3) / (TR.end - TR.st(5)))
+    if z > 0:
+        w2, h2 = int(W / (1 + z)), int(H / (1 + z)); x0, y0 = (W - w2) // 2, (H - h2) // 2
+        img = img.crop((x0, y0, x0 + w2, y0 + h2)).resize((W, H), Image.BICUBIC)
     return img
 
 if __name__ == '__main__':
