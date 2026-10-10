@@ -72,8 +72,6 @@ def h1():
     sy0 = 1309 - (H - F) / k
     b = img('h1', 0, sy0, 941, 0, 0, W, H - F)
     # Kopf: deckt das weiche Original-Logo ab, neues Vektor-Logo
-    b += ('<div style="position:absolute;left:0;top:0;width:100%;height:185mm;'
-          'background:linear-gradient(180deg,#06120c 0%,#06120c 68%,rgba(6,18,12,0) 100%)"></div>')
     b += logo(B + 28, B + 16, 100)
     b += (f'<div style="position:absolute;left:{B+33}mm;top:{B+122}mm;color:#fff;font:600 17mm MI;white-space:nowrap">'
           f'Heizung <span style="color:{LIME}">|</span> Sanitär <span style="color:{LIME}">|</span> Klima <span style="color:{LIME}">|</span> Wärmepumpen</div>')
@@ -128,8 +126,6 @@ def q2():
     S = H - ih
     b = img('q2', 0, 0, 1536, 0, 0, W, ih)
     # Original-Logo scharf ersetzen (exakt auf Position des Original-Logos)
-    b += (f'<div style="position:absolute;left:{44*k}mm;top:{38*k}mm;width:{360*k}mm;height:{200*k}mm;'
-          f'background:#e9e8e7;filter:blur({4*k}mm)"></div>')
     b += f'<img src="logo2.svg" style="position:absolute;left:{49.95*k}mm;top:{39.9*k}mm;height:{193.8*k}mm;width:{348.2*k}mm">'
     # echter QR-Code statt Platzhalter
     qs = 124 * k
