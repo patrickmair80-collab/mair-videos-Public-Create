@@ -19,6 +19,10 @@ Der Skill-Radar läuft **Di + Fr 7:58** und sucht nach der gleichen Methode: ers
 | Verkauf | kleinanzeigen, ebay listing, product photos, background removal |
 | Web | landing page, scrollytelling, 3d product page, design polish |
 
+## Menge und Mehrwert (Patrick, 10.10.2026)
+- Bis zu **5 Funde pro Lauf**, aber jeder muss den **Mehrwert-Test** bestehen: in einem Satz konkret sagen, was Patrick spart oder besser macht. Sonst verwerfen.
+- Lieber 2 starke als 5 mittelmäßige.
+
 ## Lern-Schleife
 - Jeder geprüfte Skill bekommt in der Tabelle unten ein **Ergebnis**: gespeichert / genutzt / gut angekommen / abgelehnt.
 - Was Patrick gespeichert hat oder was in Reels gut lief (Metricool-Zahlen, Rhythmus-Analyst), bekommt beim nächsten Lauf mehr Gewicht: ähnliche Skills und Begriffe zuerst suchen.
