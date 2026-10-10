@@ -79,3 +79,18 @@ Regel: nächste Reels dürfen keins dieser 6 Layouts wiederholen, bevor 3 andere
 | L43 Kündigungsschreiben | Ölkessel | "Liebe Ölheizung, hiermit kündige ich dich", Stempel RAUS DAMIT |
 | L44 Handy-Dashboard | E3DC eigene Anlage | App im Handy, Zahlen-Sticker, Foto eigene Anlage |
 Renderer: werkzeuge/render3_layouts_L37-L44.py
+
+## 10.10.2026: L45–L51 (die 7 alten Posts neu, jeweils Sprecher Thorsten + eigene Musik)
+Anregungen aus der Recherche: Serien-Format mit Datum/Zeitstempel, Schlagzeile mit Auflösung ("Stimmt nicht"), Mini-Lektion falsch → richtig, Vorher/Nachher-Schieber, TV-Format nachgespielt (Wetterbericht), Ausstellung/Galerie als Kamerafahrt.
+Quellen: async.com/blog/instagram-reels-formats, anijam.ai/blog/instagram-reels-trends, socialpilot.co/blog/instagram-reels-for-business
+
+| Layout | Reel | Stil | Musik |
+|---|---|---|---|
+| L45 Tagesprotokoll | Ein Tag bei uns | liniertes Papier, Polaroid-Stapel mit Klebeband, Analoguhr, Tagesleiste mit wandernder Sonne, Textmarker-Untertitel, roter Stempel | m13 Gitarre |
+| L46 Faktencheck | Wärmepumpe im Altbau | Zitatkarte, roter Stempel STIMMT NICHT, Kino-Breitband, Checkliste füllt sich, grüner Stempel KLAPPT | m10 Klavier/Geige |
+| L47 Team Wanne gegen Team Dusche | Dusche statt Wanne | Vergleichs-Schieber, Vorteils-Chips mit Icons, Fliesen-Zoom, Chat-Eingabe tippt DUSCHE | m08 ruhig |
+| L48 Baustellen-Warnschild | 3 Fehler | Absperrband läuft, Warndreieck, gelbe Fehlerkarte + rotes X, klappt um auf grüne Lösung | m11 Funk |
+| L49 Bäder-Galerie | Bäder aus der Region | Museumswand, Rahmen mit Passepartout, Messingschilder, Spots, Kamerafahrt | m16 Jazz-Klavier |
+| L50 Bewerbungsbogen | Ausbildung | Klemmbrett auf Holz, Kugelschreiber füllt aus, Haken, angeklammerte Fotos, Unterschrift | m15 Rock |
+| L51 Wetterbericht | Klima heizt auch | TV-Studio, Regionalkarte mit Schnee, Thermometer, Laufband, Szenen-Wischer | m19 Winter-Orchester |
+Renderer: werkzeuge/alt7/ (kit.py + l45…l51). Prüfung vor jedem Upload: qa.py (Sprache, Standbilder, Pegel, Ausklang) + Bildkontrolle durch Prüf-Agent.

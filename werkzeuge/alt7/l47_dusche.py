@@ -75,7 +75,7 @@ def frame(t):
         subtitle(img, t)
     else:
         lt = t - t5
-        img = kb(MOS, lt, 1.35, 1.7, 4.5, 0.5, 0.42)
+        img = kb(MOS, lt, 1.35, 1.75, 7.2, 0.5, 0.42)
         if lt < 0.35:
             prev = frame_prev(t5 - 0.001); img = Image.blend(prev, img, ease(lt / 0.35))
         d = ImageDraw.Draw(img, 'RGBA')

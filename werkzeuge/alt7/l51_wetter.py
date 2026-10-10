@@ -45,7 +45,7 @@ def ticker(img, t):
     d = ImageDraw.Draw(img); y = 1470
     d.rectangle([0, y, W, y + 70], fill=(250, 204, 21)); d.rectangle([0, y, 230, y + 70], fill=(200, 30, 30))
     d.text((24, y + 14), 'WETTER', font=F(BLACK, 38), fill=WHITE)
-    msg = '+++ Klimaanlage heizt auch im Winter +++ Sonnenstrom vom eigenen Dach +++ Mair Gebäudetechnik, Aurachtal +++ '
+    msg = 'Klimaanlage heizt auch im Winter +++ Sonnenstrom vom eigenen Dach +++ Mair Gebäudetechnik, Aurachtal +++ '
     f = F(BOLD, 36); L = tw(d, msg, f); off = (t * 150) % L
     strip = Image.new('RGB', (W - 230, 70), (250, 204, 21)); sd = ImageDraw.Draw(strip)
     sd.text((-off, 15), msg + msg, font=f, fill=NAVY); img.paste(strip, (230, y))
@@ -57,7 +57,7 @@ def scene_map(img, t):
     pts = [(60, 900 + 60 * math.sin(x / 140)) for x in range(0, 961, 20)]; pts = [(60 + x, 880 + 70 * math.sin(x / 150)) for x in range(0, 961, 20)]
     d.line(pts, fill=(120, 170, 220), width=16)
     d.line([(150, 420), (500, 760), (930, 1230)], fill=(255, 255, 255, 200), width=8)
-    towns = [('Herzogenaurach', 150, 700), ('Aurachtal', 420, 1010), ('Erlangen', 520, 520)]
+    towns = [('Herzogenaurach', 470, 760), ('Aurachtal', 150, 1010), ('Erlangen', 640, 520)]
     for n, x, y in towns:
         big = n == 'Aurachtal'; r = 18 if big else 11
         d.ellipse([x - r, y - r, x + r, y + r], fill=(200, 40, 40) if big else (60, 60, 70))
@@ -143,7 +143,7 @@ def frame(t):
         d = ImageDraw.Draw(img, 'RGBA'); d.rounded_rectangle([60, 1030, 1020, 1330], 34, fill=(10, 20, 40, 200))
         d.text((110, 1060), 'Die neuen Geräte', font=F(BLACK, 66), fill=WHITE); d.text((110, 1140), 'sind schon da.', font=F(BLACK, 66), fill=LIME)
         d.rounded_rectangle([110, 1235, 600, 1305], 35, fill=LIME); d.text((140, 1245), 'Kommentiere KLIMA', font=F(BLACK, 40), fill=NAVY)
-        lg = logo(260); d.rounded_rectangle([700, 1210, 990, 1320], 20, fill=(255, 255, 255, 240)); img.paste(lg, (715, 1222), lg)
+        lg = logo(200); d.rounded_rectangle([700, 1205, 990, 1315], 20, fill=(255, 255, 255, 240)); img.paste(lg, (745, 1215), lg)
     # Szenenwechsel-Wischer
     for k in range(1, 6):
         st = TR.st(k) - 0.25

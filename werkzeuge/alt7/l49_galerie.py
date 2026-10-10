@@ -82,7 +82,7 @@ def frame(t):
     if s['t0'] - 0.1 <= t <= s['t1'] + 0.3 and i in (0, 5, 6):
         f = F(BOLD, 46); lines = wrap(d, s['text'], f, 920)
         for k, ln in enumerate(lines):
-            w = tw(d, ln, f); x = (W - w) / 2; yy = 1585 + k * 66
+            w = tw(d, ln, f); x = (W - w) / 2; yy = 1488 + k * 64
             d.rounded_rectangle([x - 18, yy - 6, x + w + 18, yy + 58], 12, fill=(0, 0, 0, 160)); d.text((x, yy), ln, font=f, fill=WHITE)
     return img
 

@@ -37,7 +37,7 @@ def build_static():
         d.line([(745, 360 + k), (745, 370 + k)], fill=(160, 160, 160), width=3); d.line([(945, 360 + k), (945, 370 + k)], fill=(160, 160, 160), width=3)
     d.text((140, 760), 'Was du lernst:', font=F(BOLD, 40), fill=NAVY)
     for k, lab in enumerate(['Wärmepumpe', 'Bad', 'Klima']):
-        x = [140, 470, 690][k]; d.rectangle([x, 830, x + 48, 878], outline=NAVY, width=4); d.text((x + 64, 832), lab, font=F(SEMI, 38), fill=NAVY)
+        x = [140, 520, 740][k]; d.rectangle([x, 830, x + 48, 878], outline=NAVY, width=4); d.text((x + 64, 832), lab, font=F(SEMI, 38), fill=NAVY)
     d.text((140, 1190), 'Wo:', font=F(BOLD, 38), fill=NAVY); d.text((140, 1290), 'Dauer:', font=F(BOLD, 38), fill=NAVY)
     d.text((140, 1490), 'Unterschrift:', font=F(BOLD, 38), fill=NAVY); d.line([(400, 1540), (940, 1540)], fill=(120, 120, 130), width=3)
     lg = logo(220); im.paste(lg, (140, 620), lg)
@@ -54,7 +54,7 @@ def frame(t):
     for k in range(3):
         tk = TR.S[1]['words'][k][0]; a = clamp((t - tk) / 0.3)
         if a > 0:
-            x = [140, 470, 690][k]; pts = [(x + 6, 852), (x + 20, 870), (x + 58, 818)]
+            x = [140, 520, 740][k]; pts = [(x + 6, 852), (x + 20, 870), (x + 58, 818)]
             if a < 0.5: pts = [pts[0], (lerp(pts[0][0], pts[1][0], a * 2), lerp(pts[0][1], pts[1][1], a * 2))]
             elif a < 1: pts = pts[:2] + [(lerp(pts[1][0], pts[2][0], (a - 0.5) * 2), lerp(pts[1][1], pts[2][1], (a - 0.5) * 2))]
             d.line(pts, fill=PEN, width=8, joint='curve')
@@ -84,10 +84,10 @@ def frame(t):
         d.text((780, 420), 'Du?', font=F(SERIFBI, 70), fill=PEN)
         pk = eout((t - TR.st(4) - 0.4) / 0.5)
         if pk > 0:
-            y = int(1660 - 40 * pk)
+            y = int(1640 - 40 * pk)
             d.rounded_rectangle([140, y - 60, 940, y + 50], 55, fill=GREEN)
             s = '09132 / 74 97 5-27'; f = F(BLACK, 56); d.text((540 - tw(d, s, f) / 2, y - 48), s, font=f, fill=WHITE)
-    z = 1.0 + 0.05 * ease(t / TR.end)
+    z = 1.0 + 0.06 * t / TR.end
     fy = 0.35 if t < TR.st(4) else lerp(0.35, 0.6, ease((t - TR.st(4)) / 1.0))
     w2, h2 = int(W / z), int(H / z); x0 = (W - w2) // 2; y0 = int((H - h2) * fy)
     return img.crop((x0, y0, x0 + w2, y0 + h2)).resize((W, H), Image.BICUBIC)

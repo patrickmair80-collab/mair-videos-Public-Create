@@ -33,7 +33,7 @@ def frame(t):
     d.text((80 + lw + 80, 210), 'Wärmepumpe im Altbau', font=F(SEMI, 32), fill=(170, 185, 210))
     # Zitatkarte
     endk = ease((t - TR.st(7) + 0.2) / 0.6)
-    qa = ease((t - 0.2) / 0.5); qy = 300 + (1 - qa) * 40
+    qa = ease((t + 0.35) / 0.5); qy = 300 + (1 - qa) * 40
     card = Image.new('RGBA', (920, 330), (0, 0, 0, 0)); cd = ImageDraw.Draw(card)
     cd.rounded_rectangle([0, 0, 919, 329], 28, fill=(250, 248, 242, int(255 * qa)))
     if endk < 0.5: cd.text((40, -30), '„', font=F(SERIFB, 170), fill=(200, 60, 50, int(255 * qa)))
