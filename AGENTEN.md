@@ -17,3 +17,7 @@ Feste Regeln: REEL-LABOR.md (inkl. 10.10.2026), STIMMEN.md (Thorsten), MUSIK.md,
 Technik: werkzeuge/alt7/ (Layouts), werkzeuge/workbench/STIMME-MUSIK-MISCHEN.md (Stimme, Musik, Prüfung).
 
 Dateinamen in Drive: Mair_<Thema>_<Ort>_<JJJJ-MM-TT>.mp4 (siehe REEL-LABOR.md).
+
+## Mod „mair-regeln“ (seit 10.10.2026, Vorlage in werkzeuge/mods/mair-regeln)
+- Schreibt die Mair-Regeln in jede Antwort, prüft jede Metricool-Caption vor dem Senden (5 Hashtags, 2 Orte, Ort im 1. Satz, Bio-Zeile, keine Terminzahlen) und stoppt gefährliche Lösch-Befehle.
+- Läuft in der Sitzung, in der er geladen ist. In neuen Sitzungen über den Ordner neu laden (Plugin-Ordner) bzw. als Plugin installieren.

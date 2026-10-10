@@ -18,6 +18,7 @@ Der Skill-Radar läuft **Di + Fr 7:58** und sucht nach der gleichen Methode: ers
 | Büro | outlook, email triage, calendar, monday.com, crm, lead follow-up, whatsapp, document ocr |
 | Verkauf | kleinanzeigen, ebay listing, product photos, background removal |
 | Web | landing page, scrollytelling, 3d product page, design polish |
+| Mods & Hooks (seit 10.10.2026) | claude code hooks, plugins mods, pretooluse guard, auto checker, token saver, status line |
 
 ## Menge und Mehrwert (Patrick, 10.10.2026)
 - Bis zu **5 Funde pro Lauf**, aber jeder muss den **Mehrwert-Test** bestehen: in einem Satz konkret sagen, was Patrick spart oder besser macht. Sonst verwerfen.

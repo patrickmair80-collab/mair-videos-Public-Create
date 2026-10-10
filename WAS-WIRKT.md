@@ -43,3 +43,8 @@ Durchschnittliche Anschauzeit liegt bei ALLEN Reels nur bei 3–8 s, egal wie la
 ## Offen (im Test)
 - 3D-Comic-Patrick: wirkt die Figur besser als reine Text-Animation?
 - Uhrzeit: 10 Uhr vs. 17:30 Uhr.
+
+## 10.10.2026: Karussell „Solar ab 2027“ – Patrick: „bockstark, richtig gut, kann viral gehen“
+- Was gefiel: dunkles Mair-Grün, riesige Schrift, eine Aussage pro Seite, Balken/Symbole statt Fotos, Seitenzahl + „weiter wischen“, klare Fakten mit Stand-Datum, Aufruf am Schluss.
+- Übertragen auf andere Formate: dieselbe Klarheit in Reels (eine Aussage pro Szene, große Schrift), Plakate und Posts.
+- Jedes Karussell gibt es künftig doppelt: als Wisch-Beitrag (Instagram/Facebook) und als Reel mit Wisch-Übergängen und Thorsten-Stimme (TikTok/YouTube Shorts), gleicher Slot.
