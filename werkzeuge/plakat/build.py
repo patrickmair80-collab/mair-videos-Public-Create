@@ -1,7 +1,7 @@
 import sys, os, asyncio
 from icons import PHONE, GLOBE, PIN
 D = os.path.dirname(os.path.abspath(__file__))
-B = 3  # Beschnitt mm
+B = 2  # Beschnitt mm (WIRmachenDRUCK)
 GREEN = '#4fae2a'; LIME = '#7cc242'; DARK = '#08140c'
 QR = open(f'{D}/qr.svg').read()
 SRC = {'q1': (1983, 793), 'q2': (1536, 1024), 'q3': (1254, 1254), 'h1': (941, 1672), 'h2': (941, 1672)}
@@ -66,7 +66,7 @@ img{{display:block}}
 
 # ---------------- H1: Frau mit Kind (A0 hoch) ----------------
 def h1():
-    W, H = 841 + 2*B, 1189 + 2*B
+    W, H = 840 + 2*B, 1188 + 2*B
     F = 175
     k = W / 941
     sy0 = 1309 - (H - F) / k
@@ -86,7 +86,7 @@ def h1():
 
 # ---------------- H2: Collage Frau (A0 hoch) ----------------
 def h2():
-    W, H = 841 + 2*B, 1189 + 2*B
+    W, H = 840 + 2*B, 1188 + 2*B
     F = 175
     k = W / 941
     b = img('h2', 0, 0, 941, 0, 0, W, H - F)
@@ -98,7 +98,7 @@ def h2():
 
 # ---------------- Q1: Panorama (A0 quer) ----------------
 def q1():
-    W, H = 1189 + 2*B, 841 + 2*B
+    W, H = 1188 + 2*B, 840 + 2*B
     k = W / 1983
     ih = 793 * k
     b = img('q1', 0, 0, 1983, 0, 0, W, ih)
@@ -120,7 +120,7 @@ def q1():
 
 # ---------------- Q2: Viessmann neu (A0 quer) ----------------
 def q2():
-    W, H = 1189 + 2*B, 841 + 2*B
+    W, H = 1188 + 2*B, 840 + 2*B
     k = W / 1536
     ih = 1024 * k
     S = H - ih
@@ -140,7 +140,7 @@ def q2():
 
 # ---------------- Q3: Bad (A0 quer) ----------------
 def q3():
-    W, H = 1189 + 2*B, 841 + 2*B
+    W, H = 1188 + 2*B, 840 + 2*B
     iw = H  # quadratisch
     b = img('q3', 0, 0, 1254, 0, 0, iw, H)
     PX = iw
