@@ -102,3 +102,11 @@ Auswertung Mi + So (Reel-Labor): Gewinner-Variante behalten, Verlierer nicht wie
 - **Wortwahl:** nie "nur noch X Termine", sondern "Für diese Heizsaison sind noch Kapazitäten frei."
 - **Jede Caption:** Ort im ersten Satz, genau 5 Hashtags mit 2 Orten, "Anfrage in 1 Minute: Link in der Bio" (Formular tally.so/r/dWLd5r).
 - **Abwechslung:** jede Woche mindestens 1 neues Layout (Layout-Scout), nie ein Layout der letzten 14 Tage, nie dieselbe Musik zweimal hintereinander.
+
+## Dateinamen (seit 10.10.2026)
+Jedes fertige Video in Google Drive heißt: `Mair_<Thema>_<Ort>_<Postingdatum JJJJ-MM-TT>.mp4`, ohne Umlaute (ae, oe, ue), Wörter im Thema mit Bindestrich.
+Beispiel: `Mair_Waermepumpe-Altbau_Erlangen_2026-10-12.mp4`. Noch nicht geplant: `..._noch-nicht-geplant.mp4`.
+Der Ort im Dateinamen ist derselbe wie im ersten Satz der Caption. Der Dateiname hilft beim Wiederfinden; für die Reichweite auf Instagram, TikTok und Facebook spielt er keine Rolle, dort zählen Caption, Ort und YouTube-Titel.
+
+## Posting-Rhythmus
+Siehe POSTING-RHYTHMUS.md (wird jeden Montag vom Rhythmus-Analysten aktualisiert und gilt für alle Agenten).
