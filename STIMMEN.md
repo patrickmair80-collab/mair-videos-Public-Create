@@ -2,7 +2,7 @@
 
 **Gewählt: Hörprobe 3 "Thorsten rein deutsch"** = Piper-Modell `de_DE-thorsten-high` (rhasspy/piper-voices, Sprecher Thorsten Müller, frei nutzbar). Rein deutsch, deterministisch, kein Stocken, kein Englisch. length-scale 1.1, sentence-silence 0.4. Chatterbox (Stimme 4) wird NICHT mehr verwendet.
 
-Aussprache-Schreibweisen nur für die Stimme (Untertitel bleiben normal): Gebäudetechnik → "Gebäude-Technik", Stromspeicher → "Strohmspeicher", Wärmepumpe → "Wärme-Pumpe", Aurachtal → "Aurachthal" (Betonung AU-rach-tal). Neue Wörter vorher mit phonemize() prüfen.
+Aussprache-Schreibweisen nur für die Stimme (Untertitel bleiben normal): Gebäudetechnik → "Gebäude-Technik", Stromspeicher → "Strohmspeicher", Wärmepumpe → "Wärme-Pumpe", Aurachtal → "Aurachthal" (Betonung AU-rach-tal), Strom → "Strohm", Sonnenstrom → "Strohm von der Sonne" (zusammengesetzt wird "Sonnen" verschluckt), "schickt dir" nur mit length-scale 1.25. Neue Wörter vorher mit phonemize() prüfen.
 
 ---
 
