@@ -14,7 +14,7 @@ Wird vom täglichen Reel-Check fortgeschrieben (neueste Auswertung oben). Nur Te
 7. "Sie schieben die Badsanierung vor sich her, weil Sie Dreck und Lärm fürchten?"
 8. "Jeder denkt bei Klimaanlage an kalte Luft. Falsch gedacht."
 
-**Lockmittel:** Förderung (Zahlen nur nach aktueller Prüfung nennen!), kostenloser Vor-Ort-Check, Festpreis, Rechner/60-Sekunden-Check, alles aus einer Hand / keine Subunternehmer, Knappheit ("nur noch 6 Termine"). Kein Gewinnspiel gesehen = Lücke für Mair.
+**Lockmittel:** Förderung (Zahlen nur nach aktueller Prüfung nennen!), kostenloser Vor-Ort-Check, Festpreis, Rechner/60-Sekunden-Check, alles aus einer Hand / keine Subunternehmer, Knappheit (bei Mair NIE "nur noch X Termine", sondern: "Für diese Heizsaison sind noch Kapazitäten frei"). Kein Gewinnspiel gesehen = Lücke für Mair.
 **CTA:** Formular/Landingpage, WhatsApp-Button, Kommentar-Stichwort ("schreib Wärmepumpe in die Kommentare").
 
 **Ideen für Mair (offen)**
@@ -26,3 +26,7 @@ Wird vom täglichen Reel-Check fortgeschrieben (neueste Auswertung oben). Nur Te
 6. "Schreib CHECK in die Kommentare." Kommentar-Trigger plus Formular-Link.
 
 Kontaktformular für alle Posts: https://tally.so/r/dWLd5r ("Anfrage in 1 Minute: Link in der Bio").
+
+
+## Regel von Patrick (10.10.2026)
+Keine Termin-Zahlen als Druckmittel ("nur noch 3 Termine"). Stattdessen: "Für diese Heizsaison sind noch Kapazitäten frei."
