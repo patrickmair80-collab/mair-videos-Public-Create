@@ -110,3 +110,6 @@ Der Ort im Dateinamen ist derselbe wie im ersten Satz der Caption. Der Dateiname
 
 ## Posting-Rhythmus
 Siehe POSTING-RHYTHMUS.md (wird jeden Montag vom Rhythmus-Analysten aktualisiert und gilt für alle Agenten).
+
+## Serie „Mythos Wärmepumpe“ (seit 10.10.2026)
+Fakten und Ideen in MYTHOS-WAERMEPUMPE.md. 1 Mythos pro Woche, Freitag 10:00, jedes Mal anderes Layout. Kommentar-Wort MYTHOS. Zahlen nur aus der Datei bzw. frisch geprüft.
