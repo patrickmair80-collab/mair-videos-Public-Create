@@ -32,3 +32,11 @@ Regel: Gratis-Ergebnis mit Wasserzeichen oder ohne kommerzielle Freigabe wird NI
 - Globus dreht sich → Europa → Franken → Aurachtal, Pin „Mair Gebäudetechnik“.
 - Kundenbaustellen nur bis auf Ortsebene zoomen (Ortsmitte), nie auf das Haus: keine Adresse erkennbar.
 - Quelle unten im Bild: „Luftbild © Bayerische Vermessungsverwaltung (CC BY 4.0) · NASA Blue Marble“.
+
+## Stand 10.10.2026: neue Bausteine
+- Google-Unternehmensprofil (Metricool "gmb", Typ photo/Video) bei allen Reels bis 30 s mit dabei: lokale Sichtbarkeit in Google Maps/Suche.
+- B-Roll frei nutzbar: Pixabay (API-Schlüssel von Patrick, Lizenz frei kommerziell), Drive Reels/"7 B-Roll frei nutzbar (Pixabay)". Keine Clips mit Personen/fremden Marken.
+- Soundeffekte CC0 (Freesound via Openverse): Drive Reels/"6 Soundeffekte frei (CC0)" – Stempel, Schreibmaschine, Papier, Kamera, Tropfen, Wind, Feuer, Klick, Swipe, Pop.
+- Instagram-Analyse über Composio-Instagram (Business-Konto, 35 Follower Stand 10.10.): Reichweite ist der Engpass, nicht die Produktion.
+- Instagram Edits (gratis, Handy): für Patricks eigene Baustellen-Clips, automatische Untertitel, Export ohne Wasserzeichen, Insights der letzten 10 Reels.
+- Probeweise Trial-Reels (Metricool instagramData.type TRIAL_REEL) für Hook-Tests bei Nicht-Followern.
