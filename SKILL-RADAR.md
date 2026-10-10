@@ -36,3 +36,12 @@ Der Skill-Radar läuft **Di + Fr 7:58** und sucht nach der gleichen Methode: ers
 | 10.10.2026 | remotion skills | remotion.dev/skills | offiziell Remotion | spannend für Video-Layouts, braucht Node/npm (hier blockiert) | beobachten |
 | 10.10.2026 | social-media-skills (reels-scripting) | charlie947/social-media-skills | Sterne/Installs noch prüfen | Hook- und Skript-Ideen, unsere Regeln sind strenger | beim nächsten Lauf prüfen |
 | 10.10.2026 | agent-skills | blitzreels/agent-skills | noch prüfen | an eigenen Bezahl-Dienst gebunden | eher nein |
+
+## Plugins (Patrick richtet selbst ein, Radar erklärt)
+| Datum | Plugin | Herausgeber | Mehrwert | Kosten | Status |
+|---|---|---|---|---|---|
+| 10.10.2026 | Social Media Skills (106 Skills) | Community, Anthropic-Verzeichnis | Hook-, Reel-Skript-, Vorher/Nachher-, Instagram-SEO- und Viral-Analyse-Bausteine | frei | empfohlen |
+| 10.10.2026 | instagram (Kommentare + DMs) | Community, Anthropic-Verzeichnis | Kommentar MYTHOS/SKILLFINDER bekommt automatisch eine DM, Kommentare beantworten | frei, braucht Instagram-Business + Meta-Zugang | empfohlen, Einrichtung prüfen |
+| 10.10.2026 | IT Reelsmaker | Community | Talking-Head-Clips automatisch schneiden, Untertitel, Remotion | frei, braucht Node lokal | später, wenn Patrick selbst filmt |
+| 10.10.2026 | Posty / Ayrshare | Community | Posten auf viele Kanäle | teils Abo | nein, Metricool reicht |
+| 10.10.2026 | BlitzReels, Abracadabrax, ManyMotions | Anbieter | KI-Videos | Credits/Abo | nein (Kosten, fremde Gesichter) |
