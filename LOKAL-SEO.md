@@ -100,6 +100,13 @@ Nur, wenn ihr Gerät zu sehen ist. Herstellermaterial nur mit Freigabe.
 | Memodo | @memodo.dach | geprüft |
 | hansgrohe, Samsung Klima, Novelan | — | Name vor dem ersten Markieren in der App prüfen |
 
+### Lieferanten / Händler (seit 10.10.2026, Patrick folgt ihnen auf Facebook)
+| Partner | Instagram | Facebook | Wann markieren |
+|---|---|---|---|
+| Fliesen-Fischer GmbH (Lauf a. d. Pegnitz, Fliesen und Zubehör, Lieferant von Mair) | @fliesen_fischer (laut Firmenverzeichnis, Name vor dem ersten Markieren in der App prüfen) | facebook.com/Fliesen-Fischer-Gmbh-1377308985843863 (von ihrer Website verlinkt) | Bei Bad-, Fliesen-, Terrassen- und Garagen-Posts, wenn Fliesen oder Zubehör von Fliesen-Fischer verbaut sind: in der Caption „Fliesen und Zubehör: @fliesen_fischer“, auf Instagram erst als Mitwirkender einladen, wenn der Name bestätigt ist |
+
+Neue Partner, denen Patrick folgt, hier ergänzen (Name, Konto, wann markieren).
+
 **Tipp:** Hersteller teilen gute Partner-Reels oft in ihrer Story. Darum das Gerät gut sichtbar zeigen und das richtige Konto markieren.
 
 ### Region
